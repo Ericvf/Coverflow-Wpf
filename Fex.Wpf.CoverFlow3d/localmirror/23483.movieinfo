@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1250777</ImdbId>
+  <TmdbId>23483</TmdbId>
+  <Title>Kick-Ass</Title>
+  <Runtime>117</Runtime>
+  <Rating>8.2</Rating>
+  <ReleaseDate>2010-04-16T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Dave Lizewski an average teenager, wonders why no one has ever decided to become a real-life superhero like the heroes in the comic books. After being mugged while a bystander watches and does nothing, he decides to become a real-life superhero. He buys a scuba suit on eBay as his costume and becomes a masked crime fighter, despite the fact he has no superpowers or training of any kind.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=yxbjexP3Isc</TrailerUrl>
+  <HomepageUrl>http://www.thefancarpet.com/movies/kickass/</HomepageUrl>
+  <MediaFile>Kick-Ass.avi</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="957" Type="Director" Name="Matthew Vaughn" Character="" />
+    <CastMember TmdbId="2963" Type="Actor" Name="Nicolas Cage" Character="Damon Macready" />
+    <CastMember TmdbId="54691" Type="Actor" Name="Christopher Mintz-Plasse" Character="Red Mist" />
+    <CastMember TmdbId="2983" Type="Actor" Name="Mark Strong" Character="Frank D'Amico" />
+    <CastMember TmdbId="56734" Type="Actor" Name="Chloe Moretz" Character="Hit Girl / Mindy Macready" />
+    <CastMember TmdbId="3982" Type="Actor" Name="Xander Berkeley" Character="Detective Vic Gigante" />
+    <CastMember TmdbId="41556" Type="Actor" Name="Omari Hardwick" Character="Marcus" />
+    <CastMember TmdbId="27428" Type="Actor" Name="Aaron Johnson" Character="Dave Lizewski" />
+    <CastMember TmdbId="54729" Type="Actor" Name="Clark Duke" Character="Marty" />
+    <CastMember TmdbId="27492" Type="Actor" Name="Garrett M. Brown" Character="Mr. Lizewski" />
+    <CastMember TmdbId="55089" Type="Actor" Name="Evan Peters" Character="Todd" />
+    <CastMember TmdbId="116881" Type="Actor" Name="Deborah Twiss" Character="Mrs. Zane" />
+    <CastMember TmdbId="116882" Type="Actor" Name="Lyndsy Fonseca" Character="Katie Deauxma" />
+    <CastMember TmdbId="116883" Type="Actor" Name="Sophie Wu" Character="Erika Cho" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

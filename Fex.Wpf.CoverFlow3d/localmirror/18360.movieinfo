@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1078912</ImdbId>
+  <TmdbId>18360</TmdbId>
+  <Title>Night at the Museum: Battle of the Smithsonian</Title>
+  <Runtime>105</Runtime>
+  <Rating>6.2</Rating>
+  <ReleaseDate>2009-05-22T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Security guard Larry Daley infiltrates the Smithsonian Institution in order to rescue Jedediah and Octavius, who have been shipped to the museum by mistake.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1209</TrailerUrl>
+  <HomepageUrl>http://www.nightatthemuseummovie.com</HomepageUrl>
+  <MediaFile>Night.At.The.Museum.Battle.Of.The.Smithsonian.NL.720p.BluRay.x264-Monstie.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="7399" Type="Actor" Name="Ben Stiller" Character="Larry Daley" />
+    <CastMember TmdbId="9273" Type="Actor" Name="Amy Adams" Character="Amelia Earhart" />
+    <CastMember TmdbId="887" Type="Actor" Name="Owen Wilson" Character="Jedediah Smith" />
+    <CastMember TmdbId="5587" Type="Actor" Name="Hank Azaria" Character="Kahmunrah / The Thinker / Abe Lincoln" />
+    <CastMember TmdbId="2157" Type="Actor" Name="Robin Williams" Character="Teddy Roosevelt" />
+    <CastMember TmdbId="13524" Type="Actor" Name="Christopher Guest" Character="Ivan the Terrible" />
+    <CastMember TmdbId="4581" Type="Actor" Name="Steve Coogan" Character="Octavius" />
+    <CastMember TmdbId="17835" Type="Actor" Name="Ricky Gervais" Character="Dr. McPhee" />
+    <CastMember TmdbId="19278" Type="Actor" Name="Bill Hader" Character="General George Armstrong Custer" />
+    <CastMember TmdbId="19498" Type="Actor" Name="Jon Bernthal" Character="Al Capone" />
+    <CastMember TmdbId="17825" Type="Director" Name="Shawn Levy" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Adventure" />
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

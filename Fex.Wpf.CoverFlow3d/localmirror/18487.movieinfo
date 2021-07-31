@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1111422</ImdbId>
+  <TmdbId>18487</TmdbId>
+  <Title>The Taking of Pelham 1 2 3</Title>
+  <Runtime>121</Runtime>
+  <Rating>6.4</Rating>
+  <ReleaseDate>2009-06-12T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Armed men hijack a New York City subway train, holding the passengers hostage in return for a ransom, and turning an ordinary day's work for dispatcher Walter Garber into a face-off with the mastermind behind the crime.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1214</TrailerUrl>
+  <HomepageUrl>http://catchthetrain.com/</HomepageUrl>
+  <MediaFile>The.Taking.of.Pelham.1.2.3.2009.720p.BluRay.DTS.x264-WiKi.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="893" Type="Director" Name="Tony Scott" Character="" />
+    <CastMember TmdbId="5292" Type="Actor" Name="Denzel Washington" Character="Walter Garber" />
+    <CastMember TmdbId="8891" Type="Actor" Name="John Travolta" Character="Ryder" />
+    <CastMember TmdbId="40481" Type="Actor" Name="Luis Guzmán" Character="Phil Ramos" />
+    <CastMember TmdbId="84318" Type="Actor" Name="Victor Gojcaj" Character="Bashkim" />
+    <CastMember TmdbId="1241" Type="Actor" Name="John Turturro" Character="Camonetti" />
+    <CastMember TmdbId="4691" Type="Actor" Name="James Gandolfini" Character="Mayor" />
+    <CastMember TmdbId="18313" Type="Actor" Name="Michael Rispoli" Character="John Johnson" />
+    <CastMember TmdbId="72985" Type="Actor" Name="Ramon Rodriguez" Character="Delgado" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

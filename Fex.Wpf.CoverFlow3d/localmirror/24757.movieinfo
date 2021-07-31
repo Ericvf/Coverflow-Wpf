@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1236484</ImdbId>
+  <TmdbId>24757</TmdbId>
+  <Title>Stoic</Title>
+  <Runtime>87</Runtime>
+  <Rating>0.0</Rating>
+  <ReleaseDate>2009-01-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A heated game of poker causes three men incarcerated for nonviolent offenses to brutalize their cellmate before taking drastic measures in order to cover up their crime.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>lchd-stoic1080p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="71436" Type="Director" Name="Uwe Boll" Character="" />
+    <CastMember TmdbId="820" Type="Actor" Name="Edward Furlong" Character="Harry Katish" />
+    <CastMember TmdbId="65772" Type="Actor" Name="Shaun Sipos" Character="Mitch Palmer" />
+    <CastMember TmdbId="96172" Type="Actor" Name="Sam Levinson" Character="Peter Thompson" />
+    <CastMember TmdbId="96173" Type="Actor" Name="Steffen Mennekes" Character="Jack Ulrich" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Drama" />
+  </Genres>
+</MovieInfo>

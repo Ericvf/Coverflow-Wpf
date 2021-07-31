@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1212974/</ImdbId>
+  <TmdbId>26715</TmdbId>
+  <Title>Bitch Slap</Title>
+  <Runtime>109</Runtime>
+  <Rating>6.6</Rating>
+  <ReleaseDate>2009-05-16T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>BITCH SLAP follows three bad girls (a down-and-out stripper, a drug-running killer and a corporate powerbroker) as they arrive at a remote desert hideaway to extort and steal $200 Million in diamonds from a ruthless underworld kingpin.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=3104</TrailerUrl>
+  <HomepageUrl>http://www.bitchslapmovie.com/</HomepageUrl>
+  <MediaFile>Bitch.Slap.2009.720p.nlsubs.J4F.WMV</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="96081" Type="Actor" Name="Julia Voth" Character="Trixie" />
+    <CastMember TmdbId="113734" Type="Actor" Name="Erin Cummings" Character="Hel" />
+    <CastMember TmdbId="78434" Type="Actor" Name="America Olivo" Character="Camero" />
+    <CastMember TmdbId="62573" Type="Actor" Name="Michael Hurst" Character="Gage" />
+    <CastMember TmdbId="51965" Type="Actor" Name="Kevin Sorbo" Character="Mr. Phoenix" />
+    <CastMember TmdbId="20584" Type="Actor" Name="Lucy Lawless" Character="Mother Superior" />
+    <CastMember TmdbId="77624" Type="Actor" Name="Renée O'Connor" Character="Sister Batrill" />
+    <CastMember TmdbId="20494" Type="Actor" Name="Zoe Bell" Character="Rawhide" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+  </Genres>
+</MovieInfo>

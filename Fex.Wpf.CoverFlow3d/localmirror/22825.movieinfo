@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0362478</ImdbId>
+  <TmdbId>22825</TmdbId>
+  <Title>The Box</Title>
+  <Runtime>115</Runtime>
+  <Rating>5.6</Rating>
+  <ReleaseDate>2009-09-17T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A small wooden box arrives on the doorstep of a married couple, who know that opening it will grant them a million dollars and kill someone they don't know.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1955</TrailerUrl>
+  <HomepageUrl>http://thebox-movie.warnerbros.com/</HomepageUrl>
+  <MediaFile>The.Box.NL.2009.RC.LiNE.READNFO.720p.BluRay.x264-Monstie.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="1577" Type="Director" Name="Richard Kelly" Character="" />
+    <CastMember TmdbId="6941" Type="Actor" Name="Cameron Diaz" Character="Norma Lewis" />
+    <CastMember TmdbId="11006" Type="Actor" Name="James Marsden" Character="Arthur Lewis" />
+    <CastMember TmdbId="8924" Type="Actor" Name="Frank Langella" Character="Arlington Steward" />
+    <CastMember TmdbId="80661" Type="Actor" Name="Michael Zegen" Character="Garcin" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Drama" />
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

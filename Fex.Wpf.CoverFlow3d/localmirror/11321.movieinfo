@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0814314</ImdbId>
+  <TmdbId>11321</TmdbId>
+  <Title>Seven Pounds</Title>
+  <Runtime>123</Runtime>
+  <Rating>7.8</Rating>
+  <ReleaseDate>2008-12-12T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1009</TrailerUrl>
+  <HomepageUrl>http://www.sonypictures.com/movies/sevenpounds/</HomepageUrl>
+  <MediaFile>seven pounds 1080p dts en.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="20646" Type="Director" Name="Gabriele Muccino" Character="" />
+    <CastMember TmdbId="2888" Type="Actor" Name="Will Smith" Character="Ben" />
+    <CastMember TmdbId="5916" Type="Actor" Name="Rosario Dawson" Character="Emily" />
+    <CastMember TmdbId="70304" Type="Actor" Name="Sarah Jane Morris" Character="Susan" />
+    <CastMember TmdbId="57755" Type="Actor" Name="Woody Harrelson" Character="Ezra Turner" />
+    <CastMember TmdbId="8177" Type="Actor" Name="Michael Ealy" Character="Ben's Brother" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Drama" />
+  </Genres>
+</MovieInfo>

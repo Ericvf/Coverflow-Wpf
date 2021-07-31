@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0796366</ImdbId>
+  <TmdbId>13475</TmdbId>
+  <Title>Star Trek</Title>
+  <Runtime>126</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2009-05-08T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>This is the eleventh Star Trek film and features the main characters of the original Star Trek series, who are portrayed by a new cast. It follows James T. Kirk enrolling at Starfleet Academy, his first meeting with Spock, and their battles with Romulans from the future, who are interfering with history.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=783</TrailerUrl>
+  <HomepageUrl>http://www.startrekmovie.com/</HomepageUrl>
+  <MediaFile>Star.Trek.2009.BluRay.720p.x264.DTS-WiKi.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="15344" Type="Director" Name="J.J. Abrams" Character="" />
+    <CastMember TmdbId="62064" Type="Actor" Name="Chris Pine" Character="Kirk" />
+    <CastMember TmdbId="17306" Type="Actor" Name="Zachary Quinto" Character="Spock" />
+    <CastMember TmdbId="8783" Type="Actor" Name="Eric Bana" Character="Nero" />
+    <CastMember TmdbId="11108" Type="Actor" Name="Simon Pegg" Character="Scotty" />
+    <CastMember TmdbId="1920" Type="Actor" Name="Winona Ryder" Character="Amanda Grayson" />
+    <CastMember TmdbId="8691" Type="Actor" Name="Zoe Saldana" Character="Nyota Uhura" />
+    <CastMember TmdbId="1372" Type="Actor" Name="Karl Urban" Character="Leonard 'Bones' McCoy" />
+    <CastMember TmdbId="68842" Type="Actor" Name="John Cho" Character="Hikaru Sulu" />
+    <CastMember TmdbId="21089" Type="Actor" Name="Bruce Greenwood" Character="Christopher Pike" />
+    <CastMember TmdbId="29068" Type="Actor" Name="Ben Cross" Character="Sarek" />
+    <CastMember TmdbId="21028" Type="Actor" Name="Anton Yelchin" Character="Pavel Chekov" />
+    <CastMember TmdbId="1749" Type="Actor" Name="Leonard Nimoy" Character="Old Spock" />
+    <CastMember TmdbId="4031" Type="Actor" Name="Greg Ellis" Character="Chief Engineer Olsen" />
+    <CastMember TmdbId="74568" Type="Actor" Name="Chris Hemsworth" Character="George Kirk" />
+    <CastMember TmdbId="41421" Type="Actor" Name="Jennifer Morrison" Character="Winona Kirk" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Drama" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

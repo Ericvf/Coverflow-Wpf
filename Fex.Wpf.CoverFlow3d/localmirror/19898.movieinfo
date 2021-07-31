@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1188729</ImdbId>
+  <TmdbId>19898</TmdbId>
+  <Title>Pandorum</Title>
+  <Runtime>108</Runtime>
+  <Rating>8.8</Rating>
+  <ReleaseDate>2009-09-08T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Two crew members wake up on an abandoned spacecraft with no idea who they are, how long they've been asleep, or what their mission is. The two soon discover they're actually not alone - and the reality of their situation is more horrifying than they could have imagined.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1372</TrailerUrl>
+  <HomepageUrl>http://www.pandorummovie.com/</HomepageUrl>
+  <MediaFile>Pandorum.2009.1080p.Bluray.X264-DIMENSION.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="11107" Type="Actor" Name="Ben Foster" Character="Bower" />
+    <CastMember TmdbId="6065" Type="Actor" Name="Dennis Quaid" Character="Payton" />
+    <CastMember TmdbId="55086" Type="Actor" Name="Cam Gigandet" Character="Gallo" />
+    <CastMember TmdbId="54559" Type="Director" Name="Christian Alvart" Character="" />
+    <CastMember TmdbId="43202" Type="Actor" Name="Antje Traue" Character="Nadia" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

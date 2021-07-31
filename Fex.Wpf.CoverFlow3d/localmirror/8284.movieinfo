@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1135092</ImdbId>
+  <TmdbId>8284</TmdbId>
+  <Title>The Limits of Control</Title>
+  <Runtime>116</Runtime>
+  <Rating>0.0</Rating>
+  <ReleaseDate>2009-05-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>The Limits of Control is the story of a mysterious loner (played by Mr. De Bankolé), a stranger, whose activities remain meticulously outside the law. He is in the process of completing a job, yet he trusts no one, and his objectives are not initially divulged.
+
+His journey, paradoxically both intently focused and dreamlike, takes him not only across Spain but also through his own consciousness.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=2467</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>refined-limits.of.control-1080p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="4429" Type="Director" Name="Jim Jarmusch" Character="" />
+    <CastMember TmdbId="4812" Type="Actor" Name="Isaach De Bankolé" Character="n.a." />
+    <CastMember TmdbId="3063" Type="Actor" Name="Tilda Swinton" Character="n.a." />
+    <CastMember TmdbId="258" Type="Actor" Name="Gael García Bernal" Character="n.a." />
+    <CastMember TmdbId="1532" Type="Actor" Name="Bill Murray" Character="n.a." />
+    <CastMember TmdbId="5049" Type="Actor" Name="John Hurt" Character="n.a." />
+  </CastMembers>
+  <Genres />
+</MovieInfo>

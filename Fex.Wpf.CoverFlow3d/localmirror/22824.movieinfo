@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1220198</ImdbId>
+  <TmdbId>22824</TmdbId>
+  <Title>The Fourth Kind</Title>
+  <Runtime>98</Runtime>
+  <Rating>0.0</Rating>
+  <ReleaseDate>2009-10-25T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Fact-based thriller involving an ongoing unsolved mystery in Alaska, where one town has seen an extraordinary number of unexplained disappearances during the past 40 years and there are accusations of a federal cover up.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1956</TrailerUrl>
+  <HomepageUrl>http://www.thefourthkind.net/</HomepageUrl>
+  <MediaFile>The.Fourth.Kind.2009.720p.Blu-ray.DTS.x264-CtrlHD.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="63" Type="Actor" Name="Milla Jovovich" Character="Abbey" />
+    <CastMember TmdbId="62367" Type="Director" Name="Olatunde Osunsanmi" Character="" />
+    <CastMember TmdbId="883" Type="Actor" Name="Will Patton" Character="Sheriff August" />
+    <CastMember TmdbId="2603" Type="Actor" Name="Hakeem Kae-Kazim" Character="Awolowa Odusami" />
+    <CastMember TmdbId="17199" Type="Actor" Name="Corey Johnson" Character="Tommy Fisher" />
+    <CastMember TmdbId="91494" Type="Actor" Name="Enzo Cilenti" Character="Scott Stracinsky" />
+    <CastMember TmdbId="13550" Type="Actor" Name="Elias Koteas" Character="Abel Campos" />
+    <CastMember TmdbId="113235" Type="Actor" Name="Eric Loren" Character="Deputy Ryan" />
+    <CastMember TmdbId="113236" Type="Actor" Name="Mia McKenna-Bruce" Character="Ashley Tyler" />
+    <CastMember TmdbId="89827" Type="Actor" Name="Raphaël Coleman" Character="Ronnie Tyler" />
+    <CastMember TmdbId="84068" Type="Actor" Name="Daphne Alexander" Character="Theresa" />
+    <CastMember TmdbId="113237" Type="Actor" Name="Alisha Seaton" Character="Cindy Stracinski" />
+    <CastMember TmdbId="113238" Type="Actor" Name="Tyne Rafaeli" Character="Sarah Fisher" />
+    <CastMember TmdbId="113239" Type="Actor" Name="Pavel Stefanov" Character="Timothy Fisher" />
+    <CastMember TmdbId="113240" Type="Actor" Name="Kiera McMaster" Character="Joe Fisher" />
+    <CastMember TmdbId="113241" Type="Actor" Name="Sarah Houghton" Character="Jessica" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Horror" />
+    <Genre Name="Mystery" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

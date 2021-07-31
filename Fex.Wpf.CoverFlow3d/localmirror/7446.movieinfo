@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0942385</ImdbId>
+  <TmdbId>7446</TmdbId>
+  <Title>Tropic Thunder</Title>
+  <Runtime>107</Runtime>
+  <Rating>8.8</Rating>
+  <ReleaseDate>2008-08-13T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Through a series of freak occurrences, a group of actors shooting a big-budget war movie are forced to become the soldiers they are portraying.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1896</TrailerUrl>
+  <HomepageUrl>http://www.tropicthunder.com/</HomepageUrl>
+  <MediaFile>Tropic.Thunder.mpg</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="7399" Type="Director" Name="Ben Stiller" Character="" />
+    <CastMember TmdbId="7399" Type="Actor" Name="Ben Stiller" Character="Speedman" />
+    <CastMember TmdbId="70851" Type="Actor" Name="Jack Black" Character="Jeff &quot;Fats&quot; Portnoy" />
+    <CastMember TmdbId="3223" Type="Actor" Name="Robert Downey Jr." Character="Kirk Lazarus" />
+    <CastMember TmdbId="4581" Type="Actor" Name="Steve Coogan" Character="Damian" />
+    <CastMember TmdbId="449" Type="Actor" Name="Jay Baruchel" Character="Kevin Sandusky" />
+    <CastMember TmdbId="19278" Type="Actor" Name="Bill Hader" Character="Rob Slolom" />
+    <CastMember TmdbId="53335" Type="Actor" Name="Rachel Avery" Character="Speedman's Assistant" />
+    <CastMember TmdbId="53336" Type="Actor" Name="Brandon T. Jacksonas" Character="Alpa Chino" />
+    <CastMember TmdbId="1733" Type="Actor" Name="Nick Nolte" Character="Four Leaf Tayback" />
+    <CastMember TmdbId="500" Type="Actor" Name="Tom Cruise" Character="Les Grossmann" />
+    <CastMember TmdbId="10297" Type="Actor" Name="Matthew McConaughey" Character="Rick Peck" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0463854</ImdbId>
+  <TmdbId>1562</TmdbId>
+  <Title>28 Weeks Later</Title>
+  <Runtime>99</Runtime>
+  <Rating>6.4</Rating>
+  <ReleaseDate>2007-05-11T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Six months after the rage virus was inflicted on the population of Great Britain, the US Army helps to secure a small area of London for the survivors to repopulate and start again. But not everything goes to plan.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=38</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>halcyon-28weeks.720p-x264.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="17597" Type="Director" Name="Juan Carlos Fresnadillo" Character="" />
+    <CastMember TmdbId="9827" Type="Actor" Name="Rose Byrne" Character="Scarlet" />
+    <CastMember TmdbId="17604" Type="Actor" Name="Jeremy Renner" Character="Sergeant Doyle" />
+    <CastMember TmdbId="17605" Type="Actor" Name="Idris Elba" Character="General Stone" />
+    <CastMember TmdbId="2462" Type="Actor" Name="Catherine McCormack" Character="Alice" />
+    <CastMember TmdbId="6195" Type="Actor" Name="Harold Perrineau" Character="Flynn" />
+    <CastMember TmdbId="17606" Type="Actor" Name="Imogen Poots" Character="Tammy" />
+    <CastMember TmdbId="17607" Type="Actor" Name="Mackintosh Muggleton" Character="Andy" />
+    <CastMember TmdbId="2972" Type="Actor" Name="Shahid Ahmed" Character="Jacob" />
+    <CastMember TmdbId="18023" Type="Actor" Name="Robert Carlyle" Character="Don" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Horror" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

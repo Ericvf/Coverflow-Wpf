@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0320691</ImdbId>
+  <TmdbId>277</TmdbId>
+  <Title>Underworld</Title>
+  <Runtime>116</Runtime>
+  <Rating>7.4</Rating>
+  <ReleaseDate>2003-09-19T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Selene, a beautiful vampire warrior, is entrenched in a war between the vampire and Lycan races. Although she is aligned with the vampires, she falls in love with Michael, a recently turned Lycan whose blood may lead to the end of the war, raging for centuries.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=RuoIQySqmMQ</TrailerUrl>
+  <HomepageUrl>http://www.sonypictures.com/movies/underworld/site/main.html</HomepageUrl>
+  <MediaFile>Underworld.Extended.Cut.2003.720p.BluRay.x264-SiNNERS.avi</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="3950" Type="Director" Name="Len Wiseman" Character="" />
+    <CastMember TmdbId="3967" Type="Actor" Name="Kate Beckinsale" Character="Selene" />
+    <CastMember TmdbId="100" Type="Actor" Name="Scott Speedman" Character="Michael Corvin" />
+    <CastMember TmdbId="3968" Type="Actor" Name="Michael Sheen" Character="Lucian" />
+    <CastMember TmdbId="3969" Type="Actor" Name="Shane Brolly" Character="Kraven" />
+    <CastMember TmdbId="2440" Type="Actor" Name="Bill Nighy" Character="Viktor" />
+    <CastMember TmdbId="3970" Type="Actor" Name="Erwin Leder" Character="Singe" />
+    <CastMember TmdbId="3971" Type="Actor" Name="Sophia Myles" Character="Erika" />
+    <CastMember TmdbId="1119" Type="Actor" Name="Robbie Gee" Character="Kahn" />
+    <CastMember TmdbId="3972" Type="Actor" Name="Wentworth Miller" Character="Dr. Lockwood" />
+    <CastMember TmdbId="3973" Type="Director" Name="Mark Egerton" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Fantasy" />
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1174954</ImdbId>
+  <TmdbId>13648</TmdbId>
+  <Title>Resident Evil: Degeneration</Title>
+  <Runtime>97</Runtime>
+  <Rating>7.8</Rating>
+  <ReleaseDate>2008-10-18T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A zombie attack brings chaos to Harvardville Airport. Leon Kennedy and Claire Redfield , who fought the sinister Umbrella Corporation during the Raccoon City tragedy 7 years ago, are back. In high-octane Resident Evil style, they're ready to battle a rogue warrior who is seeking revenge after his family was killed in Raccoon City. The deadly G-Virus is unleashed and a new mutated monster rampages.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=952</TrailerUrl>
+  <HomepageUrl>http://www.sonypictures.com/homevideo/residentevildegeneration</HomepageUrl>
+  <MediaFile>Resident.Evil.Degeneration.NLsubs.WVC1.1080p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="74950" Type="Director" Name="Makoto Kamiya" Character="" />
+    <CastMember TmdbId="74951" Type="Actor" Name="Alyson Court" Character="Claire Redfield (Voice)" />
+    <CastMember TmdbId="74953" Type="Actor" Name="Paul Mercier" Character="Leon S. Kennedy (Voice)" />
+    <CastMember TmdbId="75037" Type="Actor" Name="Laura Bailey" Character="Angela Miller (voice)" />
+    <CastMember TmdbId="75038" Type="Actor" Name="Roger Craig Smith" Character="Curtis Miller (voice)" />
+    <CastMember TmdbId="75039" Type="Actor" Name="Crispin Freeman" Character="Frederic Downing (voice)" />
+    <CastMember TmdbId="81378" Type="Actor" Name="Salli Saffioti" Character="Ingrid Hunnigan (Voice)" />
+    <CastMember TmdbId="81379" Type="Actor" Name="Steve Blum" Character="Greg Glenn (Voice)" />
+    <CastMember TmdbId="81380" Type="Actor" Name="Michelle Ruff" Character="Rani Chawla (Voice)" />
+    <CastMember TmdbId="61308" Type="Actor" Name="Michael Sorich" Character="Senator Ron Davis (Voice)" />
+    <CastMember TmdbId="81381" Type="Actor" Name="Michael McConnohie" Character="WilPharma CEO (Voice)" />
+    <CastMember TmdbId="81382" Type="Actor" Name="Kirk Thornton" Character="President (Voice)" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Animation" />
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

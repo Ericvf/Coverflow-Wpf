@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1014759</ImdbId>
+  <TmdbId>12155</TmdbId>
+  <Title>Alice in Wonderland</Title>
+  <Runtime>108</Runtime>
+  <Rating>6.6</Rating>
+  <ReleaseDate>2010-03-04T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>19-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=DeWsZ2b_pK4</TrailerUrl>
+  <HomepageUrl>http://disney.go.com/wonderland/</HomepageUrl>
+  <MediaFile>Layer Cake 1080p x264 bluray dual+s[HDteam].mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="510" Type="Director" Name="Tim Burton" Character="" />
+    <CastMember TmdbId="3968" Type="Actor" Name="Michael Sheen" Character="The White Rabbit" />
+    <CastMember TmdbId="1813" Type="Actor" Name="Anne Hathaway" Character="The White Queen" />
+    <CastMember TmdbId="1283" Type="Actor" Name="Helena Bonham Carter" Character="The Red Queen" />
+    <CastMember TmdbId="4566" Type="Actor" Name="Alan Rickman" Character="The Caterpillar" />
+    <CastMember TmdbId="1064" Type="Actor" Name="Crispin Glover" Character="The Knave of Hearts" />
+    <CastMember TmdbId="76070" Type="Actor" Name="Mia Wasikowska" Character="Alice Kingsley" />
+    <CastMember TmdbId="113" Type="Actor" Name="Christopher Lee" Character="The Jabberwock" />
+    <CastMember TmdbId="11275" Type="Actor" Name="Stephen Fry" Character="The Cheshire Cat" />
+    <CastMember TmdbId="9191" Type="Actor" Name="Timothy Spall" Character="The Bloodhound" />
+    <CastMember TmdbId="20982" Type="Actor" Name="Marton Csokas" Character="Charles Kingsley" />
+    <CastMember TmdbId="1284" Type="Actor" Name="Noah Taylor" Character="The March Hare" />
+    <CastMember TmdbId="85" Type="Actor" Name="Johnny Depp" Character="The Mad Hatter" />
+    <CastMember TmdbId="26209" Type="Actor" Name="Matt Lucas" Character="Tweedledee / Tweedledum" />
+    <CastMember TmdbId="40942" Type="Actor" Name="Barbara Windsor" Character="The Dormouse" />
+    <CastMember TmdbId="3796" Type="Actor" Name="Michael Gough" Character="The Dodo" />
+    <CastMember TmdbId="30083" Type="Actor" Name="Lindsay Duncan" Character="Helen Kingsley" />
+    <CastMember TmdbId="11276" Type="Actor" Name="Tim Pigott-Smith" Character="Lord Ascot" />
+    <CastMember TmdbId="47468" Type="Actor" Name="Frances de la Tour" Character="Aunt Imogene" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Fantasy" />
+  </Genres>
+</MovieInfo>

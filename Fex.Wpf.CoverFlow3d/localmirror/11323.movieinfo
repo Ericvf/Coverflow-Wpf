@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1130080</ImdbId>
+  <TmdbId>11323</TmdbId>
+  <Title>The Informant!</Title>
+  <Runtime>108</Runtime>
+  <Rating>7.0</Rating>
+  <ReleaseDate>2009-09-18T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A rising star at agri-industry giant Archer Daniels Midland (ADM), Mark Whitacre suddenly turns whistleblower. Even as he exposes his company’s multi-national price-fixing conspiracy to the FBI, Whitacre envisions himself being hailed as a hero of the common man and handed a promotion.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=2866</TrailerUrl>
+  <HomepageUrl>http://theinformantmovie.warnerbros.com/</HomepageUrl>
+  <MediaFile>metis-informant-720p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="1884" Type="Director" Name="Steven Soderbergh" Character="" />
+    <CastMember TmdbId="1892" Type="Actor" Name="Matt Damon" Character="Mark Whitacre" />
+    <CastMember TmdbId="15091" Type="Actor" Name="Melanie Lynskey" Character="Ginger Whitacre" />
+    <CastMember TmdbId="2154" Type="Actor" Name="Scott Bakula" Character="Brian Shepard" />
+    <CastMember TmdbId="10872" Type="Actor" Name="Patton Oswalt" Character="Ed Herbst" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

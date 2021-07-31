@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0468569</ImdbId>
+  <TmdbId>155</TmdbId>
+  <Title>The Dark Knight</Title>
+  <Runtime>152</Runtime>
+  <Rating>8.2</Rating>
+  <ReleaseDate>2008-07-18T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=GROmJWb-3wU</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>The.Dark.Knight.NLsubs.WVC1.1080p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="525" Type="Director" Name="Christopher Nolan" Character="" />
+    <CastMember TmdbId="3894" Type="Actor" Name="Christian Bale" Character="Batman" />
+    <CastMember TmdbId="1810" Type="Actor" Name="Heath Ledger" Character="Joker" />
+    <CastMember TmdbId="192" Type="Actor" Name="Morgan Freeman" Character="Lucius Fox" />
+    <CastMember TmdbId="1579" Type="Actor" Name="Maggie Gyllenhaal" Character="Rachel Dawes" />
+    <CastMember TmdbId="21315" Type="Actor" Name="Eric Roberts" Character="Sal Maroni" />
+    <CastMember TmdbId="77083" Type="Actor" Name="James Smith" Character="Tommy" />
+    <CastMember TmdbId="6383" Type="Actor" Name="Aaron Eckhart" Character="Harvey Dent" />
+    <CastMember TmdbId="64" Type="Actor" Name="Gary Oldman" Character="James Gordon" />
+    <CastMember TmdbId="3895" Type="Actor" Name="Michael Caine" Character="Alfred" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

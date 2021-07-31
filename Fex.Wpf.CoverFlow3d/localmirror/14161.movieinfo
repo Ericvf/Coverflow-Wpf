@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1190080</ImdbId>
+  <TmdbId>14161</TmdbId>
+  <Title>2012</Title>
+  <Runtime>158</Runtime>
+  <Rating>6.4</Rating>
+  <ReleaseDate>2009-11-13T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Never before has a date in history been so significant to so many cultures, so many religions, scientists and governments. '2012' is an epic adventure about global cataclysm, and the epic struggle to survive.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=835</TrailerUrl>
+  <HomepageUrl>http://www.sonypictures.com/movies/2012/</HomepageUrl>
+  <MediaFile>m-2012-720p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="3036" Type="Actor" Name="John Cusack" Character="Jackson Curtis" />
+    <CastMember TmdbId="2956" Type="Actor" Name="Amanda Peet" Character="Kate Curtis" />
+    <CastMember TmdbId="5294" Type="Actor" Name="Chiwetel Ejiofor" Character="Adrian Helmsley" />
+    <CastMember TmdbId="2047" Type="Actor" Name="Danny Glover" Character="President Wilson" />
+    <CastMember TmdbId="6046" Type="Director" Name="Roland Emmerich" Character="" />
+    <CastMember TmdbId="6046" Type="Director" Name="Roland Emmerich" Character="" />
+    <CastMember TmdbId="9030" Type="Actor" Name="Thandie Newton" Character="Laura Wilson" />
+    <CastMember TmdbId="57755" Type="Actor" Name="Woody Harrelson" Character="Charlie Frost" />
+    <CastMember TmdbId="83852" Type="Actor" Name="Liam James" Character="Noah Curtis" />
+    <CastMember TmdbId="74227" Type="Actor" Name="Morgan Lily" Character="Lilly Curtis" />
+    <CastMember TmdbId="17867" Type="Actor" Name="Thomas McCarthy" Character="Dr. Gordon Silberman" />
+    <CastMember TmdbId="17485" Type="Actor" Name="Oliver Platt" Character="Carl Anheuser" />
+    <CastMember TmdbId="31960" Type="Actor" Name="Zlatko Buric" Character="Yuri Karpov" />
+    <CastMember TmdbId="101014" Type="Actor" Name="Beatrice Rosen" Character="Tamara" />
+    <CastMember TmdbId="101015" Type="Actor" Name="Chin Han" Character="Tenzin" />
+    <CastMember TmdbId="101016" Type="Actor" Name="Osric Chau" Character="Nima" />
+    <CastMember TmdbId="86633" Type="Actor" Name="Lisa Lu" Character="Grandma Sonam" />
+    <CastMember TmdbId="21722" Type="Actor" Name="John Billingsley" Character="Professor Frederic West" />
+    <CastMember TmdbId="101017" Type="Actor" Name="Johann Urb" Character="Sasha" />
+    <CastMember TmdbId="18364" Type="Actor" Name="George Segal" Character="Tony Delgatto" />
+    <CastMember TmdbId="44150" Type="Actor" Name="Blu Mankuma" Character="Harry Helmsley" />
+    <CastMember TmdbId="16756" Type="Actor" Name="Jimi Mistry" Character="Dr. Satnam Tsurutani" />
+    <CastMember TmdbId="62173" Type="Actor" Name="Agam Darshi" Character="Aparna Tsurutani" />
+    <CastMember TmdbId="230" Type="Actor" Name="Stephen McHattie" Character="Captain Michaels" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Adventure" />
+    <Genre Name="Disaster" />
+    <Genre Name="Drama" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

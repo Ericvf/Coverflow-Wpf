@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1131734</ImdbId>
+  <TmdbId>19994</TmdbId>
+  <Title>Jennifer's Body</Title>
+  <Runtime>100</Runtime>
+  <Rating>7.0</Rating>
+  <ReleaseDate>2009-09-18T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A newly possessed cheerleader turns into a killer who specializes in offing her male classmates. Can her best friend put an end to the horror?</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1395</TrailerUrl>
+  <HomepageUrl>http://www.jennifersbody.com/</HomepageUrl>
+  <MediaFile>h-jbody-x264.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="19537" Type="Actor" Name="Megan Fox" Character="Jennifer Check" />
+    <CastMember TmdbId="54025" Type="Director" Name="Karyn Kusama" Character="" />
+    <CastMember TmdbId="71070" Type="Actor" Name="Amanda Seyfried" Character="Anita &quot;Needy&quot; Lesnicky" />
+    <CastMember TmdbId="27104" Type="Actor" Name="Johnny Simmons" Character="Chip Dove" />
+    <CastMember TmdbId="11702" Type="Actor" Name="Adam Brody" Character="Nikolai Wolf" />
+    <CastMember TmdbId="18999" Type="Actor" Name="J.K. Simmons" Character="Mr. Wroblewski" />
+    <CastMember TmdbId="59219" Type="Actor" Name="Kyle Gallner" Character="Colin Gray" />
+    <CastMember TmdbId="12110" Type="Actor" Name="Amy Sedaris" Character="Toni Lesnicky" />
+    <CastMember TmdbId="65528" Type="Actor" Name="Cynthia Stevenson" Character="Mrs. Dove" />
+    <CastMember TmdbId="33350" Type="Actor" Name="Carrie Genzel" Character="Mrs. Check" />
+    <CastMember TmdbId="85613" Type="Actor" Name="Juan Riedinger" Character="Dirk" />
+    <CastMember TmdbId="73457" Type="Actor" Name="Chris Pratt" Character="Officer Roman Duda" />
+    <CastMember TmdbId="85614" Type="Actor" Name="Juno Ruddell" Character="Officer Warzak" />
+    <CastMember TmdbId="85615" Type="Actor" Name="Keegan Sigurnjak" Character="Meek school nerd" />
+    <CastMember TmdbId="85616" Type="Actor" Name="Aman Johal" Character="Ahmet from India" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+    <Genre Name="Horror" />
+  </Genres>
+</MovieInfo>

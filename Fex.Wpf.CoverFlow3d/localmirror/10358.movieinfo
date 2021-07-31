@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1007028</ImdbId>
+  <TmdbId>10358</TmdbId>
+  <Title>Zack and Miri Make a Porno</Title>
+  <Runtime>102</Runtime>
+  <Rating>7.2</Rating>
+  <ReleaseDate>2008-09-18T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Lifelong platonic friends Zack and Miri look to solve their respective cash-flow problems by making an adult film together. As the cameras roll, however, the duo begin to sense that they may have more feelings for each other than they previously thought.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1550</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>ngr-zackandm.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="19303" Type="Director" Name="Kevin Smith" Character="" />
+    <CastMember TmdbId="19274" Type="Actor" Name="Seth Rogen" Character="Zack" />
+    <CastMember TmdbId="9281" Type="Actor" Name="Elizabeth Banks" Character="Miri" />
+    <CastMember TmdbId="23658" Type="Actor" Name="Jennifer Schwalbach Smith" Character="Betsy" />
+    <CastMember TmdbId="19302" Type="Actor" Name="Jason Mewes" Character="Lester" />
+    <CastMember TmdbId="76525" Type="Actor" Name="Gary Bednob" Character="Mr. Surya" />
+    <CastMember TmdbId="10826" Type="Actor" Name="Traci Lords" Character="Bubbles" />
+    <CastMember TmdbId="17271" Type="Actor" Name="Brandon Routh" Character="Bobby Long" />
+    <CastMember TmdbId="15033" Type="Actor" Name="Justin Long" Character="Brandon St. Randy" />
+    <CastMember TmdbId="23630" Type="Actor" Name="Jeff Anderson" Character="Deacon" />
+    <CastMember TmdbId="64342" Type="Actor" Name="Craig Robinson" Character="Delaney" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

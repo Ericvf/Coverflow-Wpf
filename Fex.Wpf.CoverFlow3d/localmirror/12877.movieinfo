@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0419677</ImdbId>
+  <TmdbId>12877</TmdbId>
+  <Title>Dead Man's Shoes</Title>
+  <Runtime>90</Runtime>
+  <Rating>10.0</Rating>
+  <ReleaseDate>2004-10-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Paddy Considine (who co-wrote the screenplay with Meadows) plays Richard, a taciturn army veteran newly returned to his hometown and on a mission to make a group of low-level criminals pay for abusing his mildly retarded younger brother, Anthony (Kebbel).</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=2719</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Dead Mans Shoes 2004 720p BluRay DTS x264 BoK.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="70520" Type="Director" Name="Shane Meadows" Character="" />
+    <CastMember TmdbId="14887" Type="Actor" Name="Paddy Considine" Character="Richard" />
+    <CastMember TmdbId="20284" Type="Actor" Name="Gary Stretch" Character="Sonny" />
+    <CastMember TmdbId="20286" Type="Actor" Name="Toby Kebbell" Character="Anthony" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

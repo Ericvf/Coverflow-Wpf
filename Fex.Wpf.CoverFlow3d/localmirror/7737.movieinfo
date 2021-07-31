@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0432021</ImdbId>
+  <TmdbId>7737</TmdbId>
+  <Title>Resident Evil: Extinction</Title>
+  <Runtime>95</Runtime>
+  <Rating>6.8</Rating>
+  <ReleaseDate>2007-09-21T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Survivors of the Raccoon City catastrophe travel across the Nevada desert, hoping to make it to Alaska. Alice joins the caravan and their fight against the evil Umbrella Corp.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1751</TrailerUrl>
+  <HomepageUrl>http://www.sonypictures.com/movies/residentevilextinction/index.html</HomepageUrl>
+  <MediaFile>Resident.Evil.Extinction.2007.720p.BluRay.x264-ESiR.avi</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="63" Type="Actor" Name="Milla Jovovich" Character="Alice" />
+    <CastMember TmdbId="18041" Type="Actor" Name="Oded Fehr" Character="Carlos Olivera" />
+    <CastMember TmdbId="17303" Type="Actor" Name="Ali Larter" Character="Claire Redfield" />
+    <CastMember TmdbId="20508" Type="Actor" Name="Iain Glen" Character="Dr. Isaacs" />
+    <CastMember TmdbId="51944" Type="Actor" Name="Mike Epps" Character="L.J." />
+    <CastMember TmdbId="52968" Type="Director" Name="Russell Mulcahy" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

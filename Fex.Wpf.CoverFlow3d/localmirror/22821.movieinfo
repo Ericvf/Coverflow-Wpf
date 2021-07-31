@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1300851</ImdbId>
+  <TmdbId>22821</TmdbId>
+  <Title>The Boondock Saints II: All Saints Day</Title>
+  <Runtime>118</Runtime>
+  <Rating>8.6</Rating>
+  <ReleaseDate>2009-11-25T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>For the last 8 years the brothers have been living with their father on a sheep farm deep in isolated Ireland. One day their uncle tells them that they have been framed for the murder of a Bostonian Catholic priest. The boys must return to Boston to not only clear their names but find the men who framed them.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1957</TrailerUrl>
+  <HomepageUrl>http://www.sonypictures.com/movies/boondocksaints2/</HomepageUrl>
+  <MediaFile>The.Boondock.Saints.II.All.Saints.Day.NL.1080p.Bluray.x264-Monstie.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="54795" Type="Director" Name="Troy Duffy" Character="" />
+    <CastMember TmdbId="35551" Type="Actor" Name="Julie Benz" Character="Eunice Bloom" />
+    <CastMember TmdbId="54789" Type="Actor" Name="Sean Patrick Flanery" Character="Connor MacManus" />
+    <CastMember TmdbId="4886" Type="Actor" Name="Norman Reedus" Character="Murphy MacManus" />
+    <CastMember TmdbId="54790" Type="Actor" Name="David Della Rocco" Character="Rocco" />
+    <CastMember TmdbId="9188" Type="Actor" Name="Billy Connolly" Character="Il Duce" />
+    <CastMember TmdbId="5365" Type="Actor" Name="Clifton Collins Jr." Character="Romeo" />
+    <CastMember TmdbId="8949" Type="Actor" Name="Peter Fonda" Character="The Roman" />
+    <CastMember TmdbId="73035" Type="Actor" Name="Paul Johansson" Character="Rick" />
+    <CastMember TmdbId="21624" Type="Actor" Name="Judd Nelson" Character="Concezio Yakavetta" />
+    <CastMember TmdbId="105776" Type="Actor" Name="Bob Marley" Character="Detective Greenly" />
+    <CastMember TmdbId="54792" Type="Actor" Name="Brian Mahoney" Character="Detective Duffy" />
+    <CastMember TmdbId="54791" Type="Actor" Name="David Ferry" Character="Detective Dolly" />
+    <CastMember TmdbId="105777" Type="Actor" Name="Gerard Parkes" Character="Doc" />
+    <CastMember TmdbId="44103" Type="Actor" Name="Richard Fitzpatrick" Character="The Chief" />
+    <CastMember TmdbId="105778" Type="Actor" Name="Robert Mauriell" Character="Louie" />
+    <CastMember TmdbId="5293" Type="Actor" Name="Willem Dafoe" Character="Paul Smecker" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

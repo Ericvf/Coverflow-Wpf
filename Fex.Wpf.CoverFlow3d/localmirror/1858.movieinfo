@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0418279</ImdbId>
+  <TmdbId>1858</TmdbId>
+  <Title>Transformers</Title>
+  <Runtime>132</Runtime>
+  <Rating>7.2</Rating>
+  <ReleaseDate>2007-07-04T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>The Earth is caught in the middle of an intergalactic war between two races of robots, the heroic Autobots and the evil Decepticons, which are able to change into a variety of objects, including cars, trucks, planes and other technological creations.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1881</TrailerUrl>
+  <HomepageUrl>http://www.transformersmovie.com/</HomepageUrl>
+  <MediaFile>Transformers.NLsubs.WVC1.720p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="865" Type="Director" Name="Michael Bay" Character="" />
+    <CastMember TmdbId="10959" Type="Actor" Name="Shia LaBeouf" Character="Sam 'Spike' Witwicky" />
+    <CastMember TmdbId="19536" Type="Actor" Name="Josh Duhamel" Character="Captain Lennox" />
+    <CastMember TmdbId="19537" Type="Actor" Name="Megan Fox" Character="Mikaela Banes" />
+    <CastMember TmdbId="19538" Type="Actor" Name="Rachael Taylor" Character="Maggie Madsen" />
+    <CastMember TmdbId="8169" Type="Actor" Name="Tyrese Gibson" Character="USAF Master Sgt. Epps" />
+    <CastMember TmdbId="10127" Type="Actor" Name="Jon Voight" Character="John Keller" />
+    <CastMember TmdbId="1241" Type="Actor" Name="John Turturro" Character="Agent Simmons" />
+    <CastMember TmdbId="18471" Type="Actor" Name="Anthony Anderson" Character="Glen Whitman" />
+    <CastMember TmdbId="19539" Type="Actor" Name="Michael O'Neill" Character="Banachek" />
+    <CastMember TmdbId="19540" Type="Actor" Name="Peter Cullen" Character="Optimus Prime (voice)" />
+    <CastMember TmdbId="19541" Type="Actor" Name="Mark Ryan" Character="Transformers (voice)" />
+    <CastMember TmdbId="1331" Type="Actor" Name="Hugo Weaving" Character="Megatron (voice)" />
+    <CastMember TmdbId="65827" Type="Actor" Name="Keith David" Character="Barricade (voice)" />
+    <CastMember TmdbId="14721" Type="Actor" Name="Kevin Dunn" Character="Ron Witwicky" />
+    <CastMember TmdbId="21710" Type="Actor" Name="Michael O`Neill" Character="Tom Banacheck" />
+    <CastMember TmdbId="24305" Type="Actor" Name="Julie White" Character="Judy Witwicky" />
+    <CastMember TmdbId="17341" Type="Actor" Name="Amaury Nolasco" Character="ACWO Jorge &quot;Fig&quot; Figueroa" />
+    <CastMember TmdbId="1897" Type="Actor" Name="Bernie Mac" Character="Bobby Bolivia" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Adventure" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

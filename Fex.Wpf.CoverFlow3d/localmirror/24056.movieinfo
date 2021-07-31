@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0471041</ImdbId>
+  <TmdbId>24056</TmdbId>
+  <Title>The Tournament</Title>
+  <Runtime>95</Runtime>
+  <Rating>6.6</Rating>
+  <ReleaseDate>2009-05-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Every seven years in an unsuspecting town, The Tournament takes place. A battle royale between 30 of the world's deadliest assassins. The last man standing receiving the $10,000,000 cash prize and the title of Worlds No 1, which itself carries the legendary million dollar a bullet price tag.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=2065</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>besthd-the.tournament-720p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="90812" Type="Director" Name="Scott Mann" Character="" />
+    <CastMember TmdbId="10182" Type="Actor" Name="Ving Rhames" Character="Joshua Harlow" />
+    <CastMember TmdbId="18023" Type="Actor" Name="Robert Carlyle" Character="Joseph MacAvoy" />
+    <CastMember TmdbId="19211" Type="Actor" Name="Ian Somerhalder" Character="Miles Slade" />
+    <CastMember TmdbId="11024" Type="Actor" Name="Kelly Hu" Character="Lai Lai Zhen" />
+    <CastMember TmdbId="15498" Type="Actor" Name="Liam Cunningham" Character="Powers" />
+    <CastMember TmdbId="94955" Type="Actor" Name="Sebastien Foucan" Character="Anton Bogart" />
+    <CastMember TmdbId="94956" Type="Actor" Name="Craig Conway" Character="Steve Tomko" />
+    <CastMember TmdbId="28743" Type="Actor" Name="John Lynch" Character="Gene Walker" />
+    <CastMember TmdbId="94957" Type="Actor" Name="Nick Rowntree" Character="Eddy Cusack" />
+    <CastMember TmdbId="86050" Type="Actor" Name="Rachel Grant" Character="Lina Sofia" />
+    <CastMember TmdbId="22810" Type="Actor" Name="Andy Nyman" Character="Tech Eddie" />
+    <CastMember TmdbId="94958" Type="Actor" Name="Iddo Goldberg" Character="Tech Rob" />
+    <CastMember TmdbId="78110" Type="Actor" Name="Scott Adkins" Character="Yuri Petrov" />
+    <CastMember TmdbId="94959" Type="Actor" Name="Camilla Power" Character="Sarah Hunter" />
+    <CastMember TmdbId="94960" Type="Actor" Name="Tamika Cameran" Character="Joshua's Wife" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+  </Genres>
+</MovieInfo>

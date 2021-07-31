@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0374900</ImdbId>
+  <TmdbId>8193</TmdbId>
+  <Title>Napoleon Dynamite</Title>
+  <Runtime>82</Runtime>
+  <Rating>5.6</Rating>
+  <ReleaseDate>2004-06-11T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Napoleon Dynamite is the tale of an social outcast who meets his best friend, becomes the hero of the entire school, and gets the girl in the end.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1715</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Napoleon.Dynamite.2004.1080p.BluRay.x264-CiNEFiLE.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="53925" Type="Director" Name="Jared Hess" Character="" />
+    <CastMember TmdbId="53926" Type="Actor" Name="Jon Heder" Character="Napoleon Dynamite" />
+    <CastMember TmdbId="53927" Type="Actor" Name="Aaron Ruell" Character="Kip Dynamite" />
+    <CastMember TmdbId="9629" Type="Actor" Name="Jon Gries" Character="Uncle Rico" />
+    <CastMember TmdbId="20190" Type="Actor" Name="Efren Ramirez" Character="Pedro Sanchez" />
+    <CastMember TmdbId="53928" Type="Actor" Name="Shondrella Avery" Character="LaFawnduh" />
+    <CastMember TmdbId="53929" Type="Actor" Name="Haylie Duff" Character="Summer" />
+    <CastMember TmdbId="53930" Type="Actor" Name="Tina Majorino" Character="Deb" />
+    <CastMember TmdbId="5727" Type="Actor" Name="Diedrich Bader" Character="Rex" />
+    <CastMember TmdbId="53931" Type="Actor" Name="Sandy Martin" Character="Grandma" />
+    <CastMember TmdbId="53932" Type="Actor" Name="Trevor Snarr" Character="Don" />
+    <CastMember TmdbId="53933" Type="Actor" Name="Emily Tyndall" Character="Trisha" />
+    <CastMember TmdbId="53934" Type="Actor" Name="Ellen Dubin" Character="Ilene" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

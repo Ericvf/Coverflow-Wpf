@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1201167</ImdbId>
+  <TmdbId>20829</TmdbId>
+  <Title>Funny People</Title>
+  <Runtime>146</Runtime>
+  <Rating>7.0</Rating>
+  <ReleaseDate>2009-07-31T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Famous and wealthy funnyman George Simmons (Adam Sandler) doesn't give much thought to how he treats people until a doctor (Torsten Voges) delivers stunning health news, forcing George to reevaluate his priorities with a little help from aspiring stand-up comic Ira (Seth Rogen).</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=2361</TrailerUrl>
+  <HomepageUrl>http://www.funnypeoplemovie.com</HomepageUrl>
+  <MediaFile>cbgb-fp720r.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="41039" Type="Director" Name="Judd Apatow" Character="" />
+    <CastMember TmdbId="19292" Type="Actor" Name="Adam Sandler" Character="George Simmons" />
+    <CastMember TmdbId="19274" Type="Actor" Name="Seth Rogen" Character="Ira Wright" />
+    <CastMember TmdbId="41087" Type="Actor" Name="Leslie Mann" Character="Laura" />
+    <CastMember TmdbId="8783" Type="Actor" Name="Eric Bana" Character="Clarke" />
+    <CastMember TmdbId="21007" Type="Actor" Name="Jonah Hill" Character="Leo Koenig" />
+    <CastMember TmdbId="17881" Type="Actor" Name="Jason Schwartzman" Character="Mark Taylor Jackson" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+    <Genre Name="Drama" />
+  </Genres>
+</MovieInfo>

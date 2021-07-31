@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1197628</ImdbId>
+  <TmdbId>16991</TmdbId>
+  <Title>Observe and Report</Title>
+  <Runtime>86</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2009-04-10T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Bi-polar mall security guard Ronnie Barnhardt is called into action to stop a flasher from turning shopper's paradise into his personal peep show. But when Barnhardt can't bring the culprit to justice, a surly police detective, is recruited to close the case.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1112</TrailerUrl>
+  <HomepageUrl>http://observe-and-report.warnerbros.com/</HomepageUrl>
+  <MediaFile>Observe.and.Report.2009.720p.Bluray.DTS.x264-CtrlHD.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="54710" Type="Director" Name="Jody Hill" Character="" />
+    <CastMember TmdbId="19274" Type="Actor" Name="Seth Rogen" Character="Ronnie Barnhardt" />
+    <CastMember TmdbId="1772" Type="Actor" Name="Anna Faris" Character="Brandi" />
+    <CastMember TmdbId="454" Type="Actor" Name="Michael Peña" Character="Dennis" />
+    <CastMember TmdbId="11477" Type="Actor" Name="Ray Liotta" Character="Detective Harrison" />
+    <CastMember TmdbId="86624" Type="Actor" Name="Collette Wolfe" Character="Nell" />
+    <CastMember TmdbId="62862" Type="Actor" Name="Danny R. McBride" Character="Caucasian Crackhead" />
+    <CastMember TmdbId="86626" Type="Actor" Name="Aziz Ansari" Character="Saddamn" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

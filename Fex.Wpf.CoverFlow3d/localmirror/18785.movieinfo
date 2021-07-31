@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1119646</ImdbId>
+  <TmdbId>18785</TmdbId>
+  <Title>The Hangover</Title>
+  <Runtime>100</Runtime>
+  <Rating>8.6</Rating>
+  <ReleaseDate>2009-06-05T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A Las Vegas-set comedy centered around three groomsmen who lose their about-to-be-wed buddy during their drunken misadventures, then must retrace their steps in order to find him.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=jj6wcUes1no</TrailerUrl>
+  <HomepageUrl>http://www.hangovermovie.com/</HomepageUrl>
+  <MediaFile>refined-the.hangover-720p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="51329" Type="Actor" Name="Bradley Cooper" Character="Phil Wenneck" />
+    <CastMember TmdbId="27105" Type="Actor" Name="Ed Helms" Character="Stu Price" />
+    <CastMember TmdbId="58225" Type="Actor" Name="Zach Galifianakis" Character="Alan Garner" />
+    <CastMember TmdbId="21180" Type="Actor" Name="Justin Bartha" Character="Doug Billings" />
+    <CastMember TmdbId="69122" Type="Actor" Name="Heather Graham" Character="Jade" />
+    <CastMember TmdbId="83585" Type="Actor" Name="Sasha Barrese" Character="Tracy Garner" />
+    <CastMember TmdbId="4175" Type="Actor" Name="Jeffrey Tambor" Character="Sid Garner" />
+    <CastMember TmdbId="46074" Type="Actor" Name="Rachael Harris" Character="Melissa" />
+    <CastMember TmdbId="83586" Type="Actor" Name="Ken Jeong" Character="Mr. Chow" />
+    <CastMember TmdbId="80757" Type="Actor" Name="Mike Tyson" Character="Himself" />
+    <CastMember TmdbId="51944" Type="Actor" Name="Mike Epps" Character="Black Doug" />
+    <CastMember TmdbId="55275" Type="Actor" Name="Jernard Burks" Character="Leonard" />
+    <CastMember TmdbId="71403" Type="Actor" Name="Rob Riggle" Character="Officer Franklin" />
+    <CastMember TmdbId="7574" Type="Actor" Name="Cleo King" Character="Officer Garden" />
+    <CastMember TmdbId="78320" Type="Actor" Name="Bryan Callen" Character="Eddie Palermo" />
+    <CastMember TmdbId="57130" Type="Director" Name="Todd Phillips" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0465494</ImdbId>
+  <TmdbId>1620</TmdbId>
+  <Title>Hitman</Title>
+  <Runtime>100</Runtime>
+  <Rating>6.6</Rating>
+  <ReleaseDate>2007-11-21T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>The best-selling videogame, Hitman, roars to life with both barrels blazing in this hardcore action-thriller starring Timothy Olyphant. A genetically engineered assassin with deadly aim, known only as "Agent 47" eliminates strategic targets for a top-secret organization. But when he's double-crossed, the hunter becomes the prey as 47 finds himself in a life-or-death game of international intrigue.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=365</TrailerUrl>
+  <HomepageUrl>http://www.hitmanmovie.com/</HomepageUrl>
+  <MediaFile>Hitman.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="18082" Type="Actor" Name="Timothy Olyphant" Character="Agent 47" />
+    <CastMember TmdbId="18184" Type="Director" Name="Xavier Gens" Character="" />
+    <CastMember TmdbId="15336" Type="Actor" Name="Dougray Scott" Character="Mike Whittier" />
+    <CastMember TmdbId="18182" Type="Actor" Name="Olga Kurylenko" Character="Nika Boronina" />
+    <CastMember TmdbId="17343" Type="Actor" Name="Robert Knepper" Character="Yuri Marklov" />
+    <CastMember TmdbId="4455" Type="Actor" Name="Ulrich Thomsen" Character="Mikhail Belicoff" />
+    <CastMember TmdbId="31166" Type="Actor" Name="Henry Ian Cusick" Character="Udre Belicoff" />
+    <CastMember TmdbId="18183" Type="Actor" Name="Michael Offei" Character="Jenkins" />
+    <CastMember TmdbId="45849" Type="Actor" Name="Christian Erickson" Character="General Kormarov" />
+    <CastMember TmdbId="25078" Type="Actor" Name="Eriq Ebouaney" Character="Bwana Qvie" />
+    <CastMember TmdbId="12983" Type="Actor" Name="Joe Sheridan" Character="Captain Gudnayev" />
+    <CastMember TmdbId="9140" Type="Actor" Name="James Faulkner" Character="Smith Jamison" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+  </Genres>
+</MovieInfo>

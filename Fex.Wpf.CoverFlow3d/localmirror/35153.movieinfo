@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0473364</ImdbId>
+  <TmdbId>35153</TmdbId>
+  <Title>The Heavy</Title>
+  <Runtime>102</Runtime>
+  <Rating>6.5</Rating>
+  <ReleaseDate>2010-04-16T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Sibling rivalry turned into betrayal between two brothers. One a prime candidate for Prime Minister, the other a henchman for a successful, yet shady businessman. Presented with an opportunity to take revenge against his brother, our anti-hero must come to terms with the truth in a world where you can trust no one and loyalty is rare.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>the.heavy.2010.1080p.bluray.x264-thugline.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="20284" Type="Actor" Name="Gary Stretch" Character="Mitchell 'Boots' Mason" />
+    <CastMember TmdbId="980" Type="Actor" Name="Vinnie Jones" Character="Dunn" />
+    <CastMember TmdbId="9029" Type="Actor" Name="Stephen Rea" Character="Anawalt" />
+    <CastMember TmdbId="27855" Type="Actor" Name="Shannyn Sossamon" Character="Claire" />
+    <CastMember TmdbId="113" Type="Actor" Name="Christopher Lee" Character="Mr. Mason" />
+    <CastMember TmdbId="113800" Type="Actor" Name="Lee Ryan" Character="Rubin" />
+    <CastMember TmdbId="71900" Type="Actor" Name="Adrian Paul" Character="Christian Mason" />
+    <CastMember TmdbId="12657" Type="Actor" Name="Jean Marsh" Character="Mrs. Mason" />
+    <CastMember TmdbId="41381" Type="Actor" Name="Sadie Frost" Character="Dutch" />
+    <CastMember TmdbId="6969" Type="Actor" Name="Geoff Bell" Character="Frank Marshall" />
+    <CastMember TmdbId="2247" Type="Actor" Name="George Harris" Character="Doctor" />
+    <CastMember TmdbId="113802" Type="Director" Name="Marcus Warren" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

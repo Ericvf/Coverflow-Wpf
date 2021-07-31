@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1016075</ImdbId>
+  <TmdbId>28665</TmdbId>
+  <Title>Fame</Title>
+  <Runtime>107</Runtime>
+  <Rating>5.0</Rating>
+  <ReleaseDate>2009-01-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>An updated version of the 1980 musical, which centered on the students of the New York Academy of Performing Arts.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>refined-fameext-720.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="101518" Type="Director" Name="Kevin Tancharoen" Character="" />
+    <CastMember TmdbId="38703" Type="Actor" Name="Kay Panabaker" Character="Jenny Garrison" />
+    <CastMember TmdbId="101519" Type="Actor" Name="Naturi Naughton" Character="Denise Dupree" />
+    <CastMember TmdbId="101521" Type="Actor" Name="Kherington Payne" Character="Alice Ellerton" />
+    <CastMember TmdbId="52119" Type="Actor" Name="Megan Mullally" Character="Ms. Fran Rowan" />
+    <CastMember TmdbId="101522" Type="Actor" Name="Walter Perez" Character="Victor Taveras" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+    <Genre Name="Drama" />
+    <Genre Name="Musical" />
+  </Genres>
+</MovieInfo>

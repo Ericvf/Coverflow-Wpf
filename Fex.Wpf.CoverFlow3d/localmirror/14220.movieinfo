@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0489282</ImdbId>
+  <TmdbId>14220</TmdbId>
+  <Title>Strange Wilderness</Title>
+  <Runtime>87</Runtime>
+  <Rating>5.0</Rating>
+  <ReleaseDate>2008-02-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>With the ratings dropping for a wilderness-themed TV show, two animal fans go to the Andes in search of Bigfoot.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>sw-1920.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="66563" Type="Director" Name="Fred Wolf" Character="" />
+    <CastMember TmdbId="18324" Type="Actor" Name="Steve Zahn" Character="Peter" />
+    <CastMember TmdbId="20818" Type="Actor" Name="Allen Covert" Character="Fred" />
+    <CastMember TmdbId="21007" Type="Actor" Name="Jonah Hill" Character="Cooker" />
+    <CastMember TmdbId="56251" Type="Actor" Name="Kevin Heffernan" Character="Whitaker" />
+    <CastMember TmdbId="71128" Type="Actor" Name="Ashley Scott" Character="Cheryl" />
+    <CastMember TmdbId="20819" Type="Actor" Name="Peter Dante" Character="Danny Gutierrez" />
+    <CastMember TmdbId="64825" Type="Actor" Name="Harry Hamlin" Character="Sky Pierson" />
+    <CastMember TmdbId="418" Type="Actor" Name="Robert Patrick" Character="Gus Hayden" />
+    <CastMember TmdbId="10671" Type="Actor" Name="Joe Don Baker" Character="Bill Calhoun" />
+    <CastMember TmdbId="21485" Type="Actor" Name="Blake Clark" Character="Dick" />
+    <CastMember TmdbId="15033" Type="Actor" Name="Justin Long" Character="Junior" />
+    <CastMember TmdbId="60074" Type="Actor" Name="Jeff Garlin" Character="Ed Lawson" />
+    <CastMember TmdbId="7502" Type="Actor" Name="Ernest Borgnine" Character="Milas" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

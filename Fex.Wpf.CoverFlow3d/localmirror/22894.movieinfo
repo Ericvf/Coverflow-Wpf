@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1038686</ImdbId>
+  <TmdbId>22894</TmdbId>
+  <Title>Legion</Title>
+  <Runtime>100</Runtime>
+  <Rating>4.0</Rating>
+  <ReleaseDate>2010-01-22T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>An out-of-the-way diner becomes the unlikely battleground for the survival of the human race. When God loses faith in humankind, he sends his legion of angels to bring on the Apocalypse. Humanity's only hope lies in a group of strangers trapped in a desert diner with the Archangel Michael.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1963</TrailerUrl>
+  <HomepageUrl>http://www.legionmovie.com</HomepageUrl>
+  <MediaFile>metis-legion-720p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="6162" Type="Actor" Name="Paul Bettany" Character="Michael" />
+    <CastMember TmdbId="6065" Type="Actor" Name="Dennis Quaid" Character="Bob Hanson" />
+    <CastMember TmdbId="17005" Type="Actor" Name="Doug Jones" Character="Ice Cream Man" />
+    <CastMember TmdbId="155" Type="Actor" Name="Lucas Black" Character="Jeep Hanson" />
+    <CastMember TmdbId="79072" Type="Actor" Name="Kevin Durand" Character="Gabriel" />
+    <CastMember TmdbId="61114" Type="Actor" Name="Kate Walsh" Character="Sandra Anderson" />
+    <CastMember TmdbId="8169" Type="Actor" Name="Tyrese Gibson" Character="Kyle Williams" />
+    <CastMember TmdbId="116357" Type="Director" Name="Scott Stewart" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Fantasy" />
+    <Genre Name="Horror" />
+    <Genre Name="Action" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0363547</ImdbId>
+  <TmdbId>924</TmdbId>
+  <Title>Dawn of the Dead</Title>
+  <Runtime>105</Runtime>
+  <Rating>7.4</Rating>
+  <ReleaseDate>2004-12-29T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A group of surviving people take refuge in a shopping center after the world has been over taken over by aggressive, flesh-eating zombies. A remake of the 1978 zombie film of the same name.</Overview>
+  <TrailerUrl />
+  <HomepageUrl>http://www.dawnofthedeadmovie.net/</HomepageUrl>
+  <MediaFile>Dawn.Of.The.Dead.2004.1080p.HDDVD.x264-hV.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="15217" Type="Director" Name="Zack Snyder" Character="" />
+    <CastMember TmdbId="98" Type="Actor" Name="Sarah Polley" Character="Ana" />
+    <CastMember TmdbId="10182" Type="Actor" Name="Ving Rhames" Character="Kenneth" />
+    <CastMember TmdbId="4177" Type="Actor" Name="Jake Weber" Character="Michael" />
+    <CastMember TmdbId="327" Type="Actor" Name="Mekhi Phifer" Character="Andre" />
+    <CastMember TmdbId="15232" Type="Actor" Name="Ty Burrell" Character="Steve" />
+    <CastMember TmdbId="40009" Type="Actor" Name="Matt Frewer" Character="Frank" />
+    <CastMember TmdbId="50217" Type="Actor" Name="Michael Kelly" Character="C.J." />
+    <CastMember TmdbId="7431" Type="Actor" Name="Kevin Zegers" Character="Terry" />
+    <CastMember TmdbId="51936" Type="Actor" Name="Lindy Booth" Character="Nicole" />
+    <CastMember TmdbId="79411" Type="Actor" Name="Michael Barry" Character="Bart" />
+    <CastMember TmdbId="4568" Type="Actor" Name="Jayne Eastwood" Character="Norma" />
+    <CastMember TmdbId="20196" Type="Actor" Name="Boyd Banks" Character="Tucker" />
+    <CastMember TmdbId="101255" Type="Actor" Name="Inna Korobkina" Character="Luda" />
+    <CastMember TmdbId="101250" Type="Actor" Name="Kim Poirier" Character="Monica" />
+    <CastMember TmdbId="51036" Type="Actor" Name="Justin Louis" Character="Luis" />
+    <CastMember TmdbId="40009" Type="Actor" Name="Matt Frewer" Character="Frank" />
+    <CastMember TmdbId="15071" Type="Actor" Name="Scott H. Reiniger" Character="The General" />
+    <CastMember TmdbId="11161" Type="Actor" Name="Tom Savini" Character="The County Sheriff" />
+    <CastMember TmdbId="15070" Type="Actor" Name="Ken Foree" Character="The Televangelist" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Drama" />
+    <Genre Name="Horror" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0457510</ImdbId>
+  <TmdbId>9353</TmdbId>
+  <Title>Nacho Libre</Title>
+  <Runtime>92</Runtime>
+  <Rating>6.4</Rating>
+  <ReleaseDate>2006-06-16T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Nacho Libre is loosely based on the story of Fray Tormenta ("Friar Storm"), aka Rev. Sergio Gutierrez Benitez, a real-life Mexican Catholic priest who had a 23-year career as a masked luchador. He competed in order to support the orphanage he directed. The producers are Jack Black, David Klawans, Julia Pistor, and Mike White.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1714</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Nacho Libre.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="53925" Type="Director" Name="Jared Hess" Character="" />
+    <CastMember TmdbId="70851" Type="Actor" Name="Jack Black" Character="Nacho" />
+    <CastMember TmdbId="57409" Type="Actor" Name="Ana de la Reguera" Character="Sister Encarnación" />
+    <CastMember TmdbId="57410" Type="Actor" Name="Héctor Jiménez" Character="Esqueleto" />
+    <CastMember TmdbId="57411" Type="Actor" Name="Darius Rose" Character="Chancho" />
+    <CastMember TmdbId="57412" Type="Actor" Name="Moises Arias" Character="Juan Pablo" />
+    <CastMember TmdbId="57413" Type="Actor" Name="Carlos Maycotte" Character="Segundo Nuñez" />
+    <CastMember TmdbId="57414" Type="Actor" Name="Richard Montoya" Character="Guillermo" />
+    <CastMember TmdbId="57415" Type="Actor" Name="Cesar Gonzalez" Character="Ramses" />
+    <CastMember TmdbId="57416" Type="Actor" Name="Rafael Montalvo" Character="Elderly Monk" />
+    <CastMember TmdbId="57417" Type="Actor" Name="Julio Sandoval" Character="Snaggle Tooth Monk" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

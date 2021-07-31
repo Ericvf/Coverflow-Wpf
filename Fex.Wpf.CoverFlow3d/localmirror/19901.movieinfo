@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0433362</ImdbId>
+  <TmdbId>19901</TmdbId>
+  <Title>Daybreakers</Title>
+  <Runtime>98</Runtime>
+  <Rating>7.8</Rating>
+  <ReleaseDate>2010-01-08T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>In the year 2019 an unknown plague has transformed the world’s population into vampires. As the human population nears extinction, vampires must capture and farm every remaining human, or find a blood substitute before time runs out.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=3077</TrailerUrl>
+  <HomepageUrl>http://www.daybreakersmovie.com/</HomepageUrl>
+  <MediaFile>daybreakers.2009.720p.bluray.x264.dts-wiki.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="56501" Type="Director" Name="Michael Spierig" Character="" />
+    <CastMember TmdbId="56502" Type="Director" Name="Peter Spierig" Character="" />
+    <CastMember TmdbId="569" Type="Actor" Name="Ethan Hawke" Character="Edward Dalton" />
+    <CastMember TmdbId="4783" Type="Actor" Name="Sam Neill" Character="Charles Bromley" />
+    <CastMember TmdbId="5293" Type="Actor" Name="Willem Dafoe" Character="Lionel 'Elvis' Cormac" />
+    <CastMember TmdbId="79966" Type="Actor" Name="Claudia Karvan" Character="Audrey Bennett" />
+    <CastMember TmdbId="103554" Type="Actor" Name="Isabel Lucas" Character="Alison Bromley" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Drama" />
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

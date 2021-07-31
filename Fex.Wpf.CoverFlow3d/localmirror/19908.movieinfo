@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1156398</ImdbId>
+  <TmdbId>19908</TmdbId>
+  <Title>Zombieland</Title>
+  <Runtime>87</Runtime>
+  <Rating>8.6</Rating>
+  <ReleaseDate>2009-10-09T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Columbus (Jesse Eisenberg) has made a habit of running from what scares him. Tallahassee (Woody Harrelson) doesn’t have fears. If he did, he’d kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they’re about to stare down the most terrifying prospect of all: each other.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=071KqJu7WVo</TrailerUrl>
+  <HomepageUrl>http://www.zombieland.com/</HomepageUrl>
+  <MediaFile>cb-zombieland-720.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="57755" Type="Actor" Name="Woody Harrelson" Character="Tallahassee" />
+    <CastMember TmdbId="44735" Type="Actor" Name="Jesse Eisenberg" Character="Columbus" />
+    <CastMember TmdbId="91268" Type="Director" Name="Ruben Fleischer" Character="" />
+    <CastMember TmdbId="54693" Type="Actor" Name="Emma Stone" Character="Wichita" />
+    <CastMember TmdbId="17140" Type="Actor" Name="Abigail Breslin" Character="Little Rock" />
+    <CastMember TmdbId="1532" Type="Actor" Name="Bill Murray" Character="Bill Murray" />
+    <CastMember TmdbId="55085" Type="Actor" Name="Amber Heard" Character="406" />
+    <CastMember TmdbId="112119" Type="Actor" Name="Derek Graf" Character="Clown Zombie" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Adventure" />
+    <Genre Name="Comedy" />
+    <Genre Name="Horror" />
+  </Genres>
+</MovieInfo>

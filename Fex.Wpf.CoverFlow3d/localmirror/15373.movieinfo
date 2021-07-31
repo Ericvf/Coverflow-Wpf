@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0430922</ImdbId>
+  <TmdbId>15373</TmdbId>
+  <Title>Role Models</Title>
+  <Runtime>99</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2008-11-07T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Two salesmen trash a company truck on an energy drink-fueled bender. Upon their arrest, the court gives them a choice: do hard time or spend 150 service hours with a mentorship program. After one day with the kids, however, jail doesn't look half bad.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1763</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>ROLE_MODELS_NLSUBBED_BLURAY_JUST4FUN_TEAM.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="22214" Type="Director" Name="David Wain" Character="" />
+    <CastMember TmdbId="57599" Type="Actor" Name="Seann William Scott" Character="Wheeler" />
+    <CastMember TmdbId="22226" Type="Actor" Name="Paul Rudd" Character="Danny Donahue" />
+    <CastMember TmdbId="9281" Type="Actor" Name="Elizabeth Banks" Character="Beth" />
+    <CastMember TmdbId="54691" Type="Actor" Name="Christopher Mintz-Plasse" Character="Augie Farks" />
+    <CastMember TmdbId="75633" Type="Actor" Name="Bobb'e J. Thompson" Character="Ronnie Shields" />
+    <CastMember TmdbId="43775" Type="Actor" Name="Jane Lynch" Character="Gayle Sweeny" />
+    <CastMember TmdbId="83586" Type="Actor" Name="Ken Jeong" Character="King Argotron" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0309698</ImdbId>
+  <TmdbId>2832</TmdbId>
+  <Title>Identity</Title>
+  <Runtime>90</Runtime>
+  <Rating>6.6</Rating>
+  <ReleaseDate>2003-04-25T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Stranded at a desolate Nevada motel during a nasty rainstorm, ten strangers become acquainted with each other when they realize that they're being killed off one by one.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1297</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Identity.2003.720p.BluRay.DTS.x264-DON.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="366" Type="Director" Name="James Mangold" Character="" />
+    <CastMember TmdbId="3036" Type="Actor" Name="John Cusack" Character="Ed" />
+    <CastMember TmdbId="11477" Type="Actor" Name="Ray Liotta" Character="Rhodes" />
+    <CastMember TmdbId="2956" Type="Actor" Name="Amanda Peet" Character="Paris" />
+    <CastMember TmdbId="16861" Type="Actor" Name="John Hawkes" Character="Larry" />
+    <CastMember TmdbId="658" Type="Actor" Name="Alfred Molina" Character="Dr. Malick" />
+    <CastMember TmdbId="20387" Type="Actor" Name="Clea DuVall" Character="Ginny" />
+    <CastMember TmdbId="11885" Type="Actor" Name="John C. McGinley" Character="George York" />
+    <CastMember TmdbId="10128" Type="Actor" Name="William Lee Scott" Character="Lou" />
+    <CastMember TmdbId="28410" Type="Actor" Name="Jake Busey" Character="Robert Maine" />
+    <CastMember TmdbId="28411" Type="Actor" Name="Pruitt Taylor Vince" Character="Malcolm Rivers" />
+    <CastMember TmdbId="28412" Type="Actor" Name="Rebecca De Mornay" Character="Caroline Suzanne" />
+    <CastMember TmdbId="28413" Type="Actor" Name="Carmen Argenziano" Character="Verteidiger" />
+    <CastMember TmdbId="3041" Type="Actor" Name="Marshall Bell" Character="Staatsanwalt" />
+    <CastMember TmdbId="15044" Type="Actor" Name="Leila Kenzle" Character="Alice York" />
+    <CastMember TmdbId="28414" Type="Actor" Name="Matt Letscher" Character="Staatsanwaltsmitarbeiter" />
+    <CastMember TmdbId="28415" Type="Actor" Name="Bret Loehr" Character="Timmy York" />
+    <CastMember TmdbId="1578" Type="Actor" Name="Holmes Osborne" Character="Richter Taylor" />
+    <CastMember TmdbId="28416" Type="Actor" Name="Frederick Coffin" Character="Detective Varole" />
+    <CastMember TmdbId="28417" Type="Actor" Name="Joe Hart" Character="Bailiff Jenkins" />
+    <CastMember TmdbId="28418" Type="Actor" Name="Michael Hirsch" Character="Nackter Geschäftsmann" />
+    <CastMember TmdbId="28419" Type="Actor" Name="Terence Bernie Hines" Character="Bailiff" />
+    <CastMember TmdbId="28401" Type="Actor" Name="Stuart M. Besser" Character="Gefrorene Leiche" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Horror" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

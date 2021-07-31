@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0131857</ImdbId>
+  <TmdbId>14013</TmdbId>
+  <Title>BASEketball</Title>
+  <Runtime>103</Runtime>
+  <Rating>0.0</Rating>
+  <ReleaseDate>1998-07-31T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Two losers from Milwaukee, Coop &amp; Remer, invent a new game playing basketball, using baseball rules. When the game becomes a huge success, they, along with a billionaire's help, form the Professional Baseketball League where everyone gets the same pay and no team can change cities. Theirs is the only team standing in the way of major rule changes that the owner of a rival team wants to institute.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1428</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>BASEketball.1998.720p.HDTV.x264-DON.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Joe Cooper" />
+    <CastMember TmdbId="34518" Type="Actor" Name="Matt Stone" Character="Doug Remer" />
+    <CastMember TmdbId="55624" Type="Actor" Name="Dian Bachar" Character="Squeak Scolari" />
+    <CastMember TmdbId="76244" Type="Actor" Name="Yasmine Bleeth" Character="Jenna Reed" />
+    <CastMember TmdbId="12987" Type="Director" Name="David Zucker" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

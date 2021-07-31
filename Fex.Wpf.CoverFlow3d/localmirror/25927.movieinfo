@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0976246</ImdbId>
+  <TmdbId>25927</TmdbId>
+  <Title>Staten Island</Title>
+  <Runtime>96</Runtime>
+  <Rating>0.0</Rating>
+  <ReleaseDate>2009-11-07T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Sully (Ethan Hawke) is desperate to give his unborn son the chance he never had.  Jasper (Seymour Cassel) wants to escape the mobsters that have infiltrated his life and business.  Parmie Tarzo (Vincent D'Onofrio), a local mob boss, dreams of crushing the competition.  All three men live in Staten Island... once their lives intersect, nothing will ever be the same.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>Staten.Island.2009.Limited.1080p.Bluray.X264-DIMENSION.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="569" Type="Actor" Name="Ethan Hawke" Character="Sully" />
+    <CastMember TmdbId="7132" Type="Actor" Name="Vincent D'Onofrio" Character="Parmie Tarzo" />
+    <CastMember TmdbId="94356" Type="Actor" Name="Seymor Cassel" Character="Jasper" />
+    <CastMember TmdbId="53120" Type="Director" Name="James DeMonaco" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+  </Genres>
+</MovieInfo>

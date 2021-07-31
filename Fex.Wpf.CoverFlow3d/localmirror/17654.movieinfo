@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1136608</ImdbId>
+  <TmdbId>17654</TmdbId>
+  <Title>District 9</Title>
+  <Runtime>112</Runtime>
+  <Rating>8.6</Rating>
+  <ReleaseDate>2009-08-13T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Aliens land in South Africa and have no way home.  Years later after living in a slum and wearing out their welcome the "Non-Humans" are being moved to a new tent city overseen by Multi-National United (MNU).  The movie follows an MNU employee tasked with leading the relocation and his relationship with one of the alien leaders.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=VjihaK7HfGs</TrailerUrl>
+  <HomepageUrl>http://www.d-9.com/</HomepageUrl>
+  <MediaFile>District.9.2009.720p.nlsubs.J4F.WMV</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="53087" Type="Actor" Name="William Allen Young" Character="Dirk Michaels" />
+    <CastMember TmdbId="82190" Type="Actor" Name="Robert Hobbs" Character="Ross Pienaar" />
+    <CastMember TmdbId="82191" Type="Actor" Name="Sharlto Copley" Character="Wikus van der Merwe" />
+    <CastMember TmdbId="82193" Type="Actor" Name="Jason Cope" Character="Grey Bradnam" />
+    <CastMember TmdbId="82194" Type="Director" Name="Neil Blomkamp" Character="" />
+    <CastMember TmdbId="82192" Type="Actor" Name="Vanessa Haywood" Character="Tania Van De Merwe" />
+    <CastMember TmdbId="13094" Type="Actor" Name="Kenneth Nkosi" Character="Thomas" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Drama" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

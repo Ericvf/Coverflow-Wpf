@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0111161</ImdbId>
+  <TmdbId>278</TmdbId>
+  <Title>The Shawshank Redemption</Title>
+  <Runtime>142</Runtime>
+  <Rating>8.4</Rating>
+  <ReleaseDate>1994-09-10T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=841</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>The Shawshank Redemption.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="4027" Type="Director" Name="Frank Darabont" Character="" />
+    <CastMember TmdbId="504" Type="Actor" Name="Tim Robbins" Character="Andy Dufresne" />
+    <CastMember TmdbId="192" Type="Actor" Name="Morgan Freeman" Character="Ellis Boyd 'Red' Redding" />
+    <CastMember TmdbId="4029" Type="Actor" Name="Bob Gunton" Character="Warden Samuel Norton" />
+    <CastMember TmdbId="6573" Type="Actor" Name="William Sadler" Character="Heywood" />
+    <CastMember TmdbId="6574" Type="Actor" Name="Clancy Brown" Character="Captain Byron T. Hadley" />
+    <CastMember TmdbId="6575" Type="Actor" Name="Gil Bellows" Character="Tommy" />
+    <CastMember TmdbId="6576" Type="Actor" Name="Mark Rolston" Character="Bogs Diamond" />
+    <CastMember TmdbId="6577" Type="Actor" Name="James Whitmore" Character="Brooks Hatlen" />
+    <CastMember TmdbId="6578" Type="Actor" Name="Renee Blaine" Character="Andy Dufresne's Wife" />
+    <CastMember TmdbId="6579" Type="Actor" Name="Brian Delate" Character="Guard Dekins" />
+    <CastMember TmdbId="6580" Type="Actor" Name="Brian Libby" Character="Floyd" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Drama" />
+  </Genres>
+</MovieInfo>

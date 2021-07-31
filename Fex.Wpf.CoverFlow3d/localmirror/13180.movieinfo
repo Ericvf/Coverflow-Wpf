@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1332128</ImdbId>
+  <TmdbId>13180</TmdbId>
+  <Title>Zeitgeist Addendum</Title>
+  <Runtime>123</Runtime>
+  <Rating>10.0</Rating>
+  <ReleaseDate>2008-10-02T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Zeitgeist: Addendum premiered at the 5th Annual Artivist Film Festival.  Director Peter Joseph stated: "The failure of our world to resolve the issues of war, poverty, and corruption, rests within a gross ignorance about what guides human behavior to begin with. It address the true source of the instability in our society, while offering the only fundamental, long-term solution."</Overview>
+  <TrailerUrl />
+  <HomepageUrl>www.zeitgeistmovie.com</HomepageUrl>
+  <MediaFile>Zeitgeist II - Addendum.avi</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="74257" Type="Actor" Name="Peter Joseph" Character="Peter Joseph" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Documentary" />
+  </Genres>
+</MovieInfo>

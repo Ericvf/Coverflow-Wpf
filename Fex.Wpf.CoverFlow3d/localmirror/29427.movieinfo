@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0455407</ImdbId>
+  <TmdbId>29427</TmdbId>
+  <Title>The Crazies</Title>
+  <Runtime>101</Runtime>
+  <Rating>7.0</Rating>
+  <ReleaseDate>2010-02-23T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>About the inhabitants of a small Iowa town suddenly plagued by insanity and then death after a mysterious toxin contaminates their water supply.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=3235</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>The.Crazies.2010.720p.Bluray.LINE.X264-PrisM.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="52609" Type="Director" Name="Breck Eisner" Character="" />
+    <CastMember TmdbId="18082" Type="Actor" Name="Timothy Olyphant" Character="David" />
+    <CastMember TmdbId="8329" Type="Actor" Name="Radha Mitchell" Character="Judy" />
+    <CastMember TmdbId="29234" Type="Actor" Name="Joe Anderson" Character="Russell" />
+    <CastMember TmdbId="31838" Type="Actor" Name="Danielle Panabaker" Character="Becca" />
+    <CastMember TmdbId="103832" Type="Actor" Name="Christie Lynn Smith" Character="Deardra Farnum" />
+    <CastMember TmdbId="12549" Type="Actor" Name="Brett Rickaby" Character="Bill Farnum" />
+    <CastMember TmdbId="80378" Type="Actor" Name="Preston Bailey" Character="Nicholas" />
+    <CastMember TmdbId="103833" Type="Actor" Name="John Aylward" Character="Mayor Hobbs" />
+    <CastMember TmdbId="103834" Type="Actor" Name="Joe Reegan" Character="Pvt. Billy Babcock" />
+    <CastMember TmdbId="12797" Type="Actor" Name="Glenn Morshower" Character="Intelligence Officer" />
+    <CastMember TmdbId="94304" Type="Actor" Name="Larry Cedar" Character="Ben Sandborn" />
+    <CastMember TmdbId="98420" Type="Actor" Name="Lynn Lowry" Character="Woman on Bike" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

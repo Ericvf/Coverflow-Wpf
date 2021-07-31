@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0425210</ImdbId>
+  <TmdbId>186</TmdbId>
+  <Title>Lucky Number Slevin</Title>
+  <Runtime>109</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2006-02-24T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma. A film with many twists and turns.</Overview>
+  <TrailerUrl />
+  <HomepageUrl>http://www.slevin-movie.com/</HomepageUrl>
+  <MediaFile>Lucky.Number.Slevin.NL.Subs.720p-RFD.WMV</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="192" Type="Actor" Name="Morgan Freeman" Character="The Boss" />
+    <CastMember TmdbId="140" Type="Actor" Name="Lucy Liu" Character="Lindsey" />
+    <CastMember TmdbId="2282" Type="Actor" Name="Ben Kingsley" Character="The Rabbi" />
+    <CastMember TmdbId="2283" Type="Actor" Name="Stanley Tucci" Character="Det. Brikowski" />
+    <CastMember TmdbId="62" Type="Actor" Name="Bruce Willis" Character="Mr. Goodkat" />
+    <CastMember TmdbId="2291" Type="Director" Name="Paul McGuigan" Character="" />
+    <CastMember TmdbId="2299" Type="Actor" Name="Josh Hartnett" Character="Slevin" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

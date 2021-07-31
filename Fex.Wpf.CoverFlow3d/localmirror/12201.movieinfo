@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1226273</ImdbId>
+  <TmdbId>12201</TmdbId>
+  <Title>Edge of Darkness</Title>
+  <Runtime>117</Runtime>
+  <Rating>6.6</Rating>
+  <ReleaseDate>2010-01-29T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>As homicide detective Thomas Craven investigates the death of his activist daughter, he uncovers not only her secret life, but a corporate cover-up and government collusion that attracts an agent tasked with cleaning up the evidence.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=qvRdGKxsmD8</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>ethos-eod.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="10702" Type="Director" Name="Martin Campbell" Character="" />
+    <CastMember TmdbId="2461" Type="Actor" Name="Mel Gibson" Character="Thomas Craven" />
+    <CastMember TmdbId="5538" Type="Actor" Name="Ray Winstone" Character="Darius Jedburgh" />
+    <CastMember TmdbId="6413" Type="Actor" Name="Danny Huston" Character="Bennett" />
+    <CastMember TmdbId="81097" Type="Actor" Name="Shawn Roberts" Character="Burnham" />
+    <CastMember TmdbId="81681" Type="Actor" Name="Denis O'Hare" Character="Moore" />
+    <CastMember TmdbId="81682" Type="Actor" Name="Bojana Novakovic" Character="Emma Craven" />
+    <CastMember TmdbId="81683" Type="Actor" Name="Gbena Akinnagbe" Character="Det. Darcy Jones" />
+    <CastMember TmdbId="81684" Type="Actor" Name="Caterina Scorsone" Character="Melissa Conway" />
+    <CastMember TmdbId="6067" Type="Actor" Name="Jay O. Sanders" Character="Whitehouse" />
+    <CastMember TmdbId="1470" Type="Actor" Name="Wayne Duvall" Character="Chief of Police" />
+    <CastMember TmdbId="81685" Type="Actor" Name="Frank Grillo" Character="The agent one" />
+    <CastMember TmdbId="60195" Type="Actor" Name="David Aaron Baker" Character="Millroy" />
+    <CastMember TmdbId="81686" Type="Actor" Name="Sol E. Romero" Character="Hospital Nurse" />
+    <CastMember TmdbId="58333" Type="Actor" Name="Tom Kemp" Character="Paul Honeywell" />
+    <CastMember TmdbId="81687" Type="Actor" Name="Rick Avery" Character="Robinson Jr." />
+    <CastMember TmdbId="81688" Type="Actor" Name="Scott Winters" Character="Northmoor Doctor" />
+    <CastMember TmdbId="50117" Type="Actor" Name="Peter Hermann" Character="Sanderman" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

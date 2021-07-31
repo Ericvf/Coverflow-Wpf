@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0480271</ImdbId>
+  <TmdbId>10032</TmdbId>
+  <Title>Van Wilder 2: The Rise of Taj</Title>
+  <Runtime>97</Runtime>
+  <Rating>5.0</Rating>
+  <ReleaseDate>2006-12-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Taj Mahal Badalandabad leaves Coolidge College behind for the halls of Camford University in England, where he looks to continue his education, and teach an uptight student how to make the most out of her academic career.</Overview>
+  <TrailerUrl />
+  <HomepageUrl>http://www.riseoftaj.com/</HomepageUrl>
+  <MediaFile>Van.Wilder.2.The.Rise.of.Taj.2006.720p.WEB-DL.DD5.1.AVC-CtrlHD.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="57962" Type="Director" Name="Mort Nathan" Character="" />
+    <CastMember TmdbId="53493" Type="Actor" Name="Kal Penn" Character="Taj" />
+    <CastMember TmdbId="62221" Type="Actor" Name="Daniel Percival" Character="Pip" />
+    <CastMember TmdbId="62220" Type="Actor" Name="Lauren Cohan" Character="Charlotte" />
+    <CastMember TmdbId="62222" Type="Actor" Name="Glen Barry" Character="Seamus" />
+    <CastMember TmdbId="62223" Type="Actor" Name="Anthony Cozens" Character="Gethin" />
+    <CastMember TmdbId="62224" Type="Actor" Name="Steve Rathman" Character="Simon" />
+    <CastMember TmdbId="58710" Type="Actor" Name="Amy Steel" Character="Alexandra" />
+    <CastMember TmdbId="47857" Type="Actor" Name="Jonathan Cecil" Character="Provost Cunningham" />
+    <CastMember TmdbId="62225" Type="Actor" Name="Holly Davidson" Character="Sadie" />
+    <CastMember TmdbId="27660" Type="Actor" Name="Roger Hammond" Character="Camford Dean" />
+    <CastMember TmdbId="62227" Type="Actor" Name="Beth Steel" Character="Penelope" />
+    <CastMember TmdbId="62229" Type="Actor" Name="Kulvinder Ghir" Character="Taj's Father" />
+    <CastMember TmdbId="62226" Type="Actor" Name="William de Coverly" Character="Roger" />
+    <CastMember TmdbId="62228" Type="Actor" Name="Tom Davey" Character="Percy" />
+    <CastMember TmdbId="62230" Type="Actor" Name="Shobu Kapoor" Character="Taj's Mother" />
+    <CastMember TmdbId="62233" Type="Actor" Name="Trevor Baxter" Character="Sir Wilfred Owen" />
+    <CastMember TmdbId="62231" Type="Actor" Name="Rupert Frazer" Character="Charlotte's Father" />
+    <CastMember TmdbId="62232" Type="Actor" Name="Cornelia Pavlovici" Character="Charlotte's Mother" />
+    <CastMember TmdbId="62234" Type="Actor" Name="Christopher Robbie" Character="Old Bearded Man" />
+    <CastMember TmdbId="62235" Type="Actor" Name="Ashly Rae" Character="Irish Woman" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+    <Genre Name="Drama" />
+  </Genres>
+</MovieInfo>

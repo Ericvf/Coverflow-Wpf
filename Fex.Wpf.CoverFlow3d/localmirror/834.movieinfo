@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0401855</ImdbId>
+  <TmdbId>834</TmdbId>
+  <Title>Underworld: Evolution</Title>
+  <Runtime>105</Runtime>
+  <Rating>6.6</Rating>
+  <ReleaseDate>2006-01-19T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>As the adventure continues, the saga of war between vampires and werewolves. Selene and Micheal a hybrid Vampire/Lycan are now fighting to stop the release of the original "Lycan" werewolf, William from the prison that's held him for centuries.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=f_tp3x4D4sc</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Underworld.Evolution.NLsubs.WVC1.1080p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="3967" Type="Actor" Name="Kate Beckinsale" Character="Selene" />
+    <CastMember TmdbId="100" Type="Actor" Name="Scott Speedman" Character="Michael Corvin" />
+    <CastMember TmdbId="2220" Type="Actor" Name="Tony Curran" Character="Marcus Corvinus" />
+    <CastMember TmdbId="3969" Type="Actor" Name="Shane Brolly" Character="Kraven" />
+    <CastMember TmdbId="937" Type="Actor" Name="Derek Jacobi" Character="Alexander Corvinus" />
+    <CastMember TmdbId="2440" Type="Actor" Name="Bill Nighy" Character="Viktor" />
+    <CastMember TmdbId="978" Type="Actor" Name="Steven Mackintosh" Character="Andreas Tanis" />
+    <CastMember TmdbId="12358" Type="Actor" Name="Zita Görög" Character="Amelia" />
+    <CastMember TmdbId="12359" Type="Actor" Name="Brian Steele" Character="William Corvinus" />
+    <CastMember TmdbId="12359" Type="Actor" Name="Brian Steele" Character="William Corvinus" />
+    <CastMember TmdbId="12366" Type="Actor" Name="Scott McElroy" Character="Soren" />
+    <CastMember TmdbId="12367" Type="Actor" Name="John Mann" Character="Samuel" />
+    <CastMember TmdbId="3968" Type="Actor" Name="Michael Sheen" Character="Lucian" />
+    <CastMember TmdbId="3971" Type="Actor" Name="Sophia Myles" Character="Erika" />
+    <CastMember TmdbId="12371" Type="Actor" Name="Richard Cetrone" Character="Pierce" />
+    <CastMember TmdbId="12372" Type="Actor" Name="Mike Mukatis" Character="Taylor" />
+    <CastMember TmdbId="3950" Type="Director" Name="Len Wiseman" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Fantasy" />
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

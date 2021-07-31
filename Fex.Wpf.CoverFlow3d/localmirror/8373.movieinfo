@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1055369</ImdbId>
+  <TmdbId>8373</TmdbId>
+  <Title>Transformers: Revenge of the Fallen</Title>
+  <Runtime>147</Runtime>
+  <Rating>6.2</Rating>
+  <ReleaseDate>2009-06-24T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Decepticon forces return to Earth on a mission to take Sam Witwicky prisoner, after the young hero learns the truth about the ancient origins of the Transformers. Joining the mission to protect humankind is Optimus Prime, who forms an alliance with international armies for a second epic battle.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1999</TrailerUrl>
+  <HomepageUrl>http://www.transformersmovie.com/</HomepageUrl>
+  <MediaFile>Transformers.Revenge.of.the.Fallen.2009.720p.BluRay.DTS.x264-Prestige.eng.srt</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="865" Type="Director" Name="Michael Bay" Character="" />
+    <CastMember TmdbId="10959" Type="Actor" Name="Shia LaBeouf" Character="Sam Witwicky" />
+    <CastMember TmdbId="19537" Type="Actor" Name="Megan Fox" Character="Mikaela Banes" />
+    <CastMember TmdbId="19536" Type="Actor" Name="Josh Duhamel" Character="Captain Lennox" />
+    <CastMember TmdbId="11678" Type="Actor" Name="Rainn Wilson" Character="College Professor" />
+    <CastMember TmdbId="8169" Type="Actor" Name="Tyrese Gibson" Character="USAF Tech Sergeant Epps" />
+    <CastMember TmdbId="1241" Type="Actor" Name="John Turturro" Character="Agent Simmons" />
+    <CastMember TmdbId="14721" Type="Actor" Name="Kevin Dunn" Character="Ron Witwicky" />
+    <CastMember TmdbId="24305" Type="Actor" Name="Julie White" Character="Judy Witwicky" />
+    <CastMember TmdbId="72985" Type="Actor" Name="Ramon Rodriguez" Character="Leo Spitz" />
+    <CastMember TmdbId="103554" Type="Actor" Name="Isabel Lucas" Character="Alice" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

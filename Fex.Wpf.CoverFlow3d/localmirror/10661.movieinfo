@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0960144</ImdbId>
+  <TmdbId>10661</TmdbId>
+  <Title>You Don't Mess With the Zohan</Title>
+  <Runtime>113</Runtime>
+  <Rating>5.0</Rating>
+  <ReleaseDate>2008-06-04T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>An Israeli Special Forces Soldier fakes his death so he can re-emerge in New York City as a hair stylist.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1552</TrailerUrl>
+  <HomepageUrl>http://www.youdontmesswiththezohan.com/</HomepageUrl>
+  <MediaFile>You.Dont.Mess.With.The.Zohan.mpg</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="17494" Type="Director" Name="Dennis Dugan" Character="" />
+    <CastMember TmdbId="19292" Type="Actor" Name="Adam Sandler" Character="Zohan" />
+    <CastMember TmdbId="1241" Type="Actor" Name="John Turturro" Character="The Phantom" />
+    <CastMember TmdbId="59192" Type="Actor" Name="Emmanuelle Chriqui" Character="Dalia" />
+    <CastMember TmdbId="32907" Type="Actor" Name="Nick Swardson" Character="Michael" />
+    <CastMember TmdbId="53647" Type="Actor" Name="Lainie Kazan" Character="Gail" />
+    <CastMember TmdbId="66069" Type="Actor" Name="Daoud Heidami" Character="Nasi" />
+    <CastMember TmdbId="66070" Type="Actor" Name="Dave Matthews" Character="James" />
+    <CastMember TmdbId="66071" Type="Actor" Name="Charlotte Rae" Character="Mrs. Greenhouse" />
+    <CastMember TmdbId="66072" Type="Actor" Name="Michael Buffer" Character="Walbridge" />
+    <CastMember TmdbId="60949" Type="Actor" Name="Rob Schneider" Character="Salim" />
+    <CastMember TmdbId="66073" Type="Actor" Name="Ido Mosseri" Character="Oori" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

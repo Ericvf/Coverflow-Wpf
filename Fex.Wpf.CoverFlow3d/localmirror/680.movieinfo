@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0110912</ImdbId>
+  <TmdbId>680</TmdbId>
+  <Title>Pulp Fiction</Title>
+  <Runtime>148</Runtime>
+  <Rating>7.8</Rating>
+  <ReleaseDate>1994-05-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Pulp Fiction is a cult film by Director Quentin Tarantino with three interwoven plots with lots of violence, absurdity, and great music. The film is Tarantino’s most famous and the film that cemented his name and style in Hollywood.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=wZBfmBvvotE</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Pulp.Fiction.NLsubs.WVC1.720p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="62" Type="Actor" Name="Bruce Willis" Character="Butch Coolidge" />
+    <CastMember TmdbId="8891" Type="Actor" Name="John Travolta" Character="Vincent Vega" />
+    <CastMember TmdbId="2231" Type="Actor" Name="Samuel L. Jackson" Character="Jules Winfield" />
+    <CastMember TmdbId="138" Type="Director" Name="Quentin Tarantino" Character="" />
+    <CastMember TmdbId="1037" Type="Actor" Name="Harvey Keitel" Character="Wolf" />
+    <CastMember TmdbId="139" Type="Actor" Name="Uma Thurman" Character="Mia Wallace" />
+    <CastMember TmdbId="7036" Type="Actor" Name="Eric Stoltz" Character="Lance" />
+    <CastMember TmdbId="10182" Type="Actor" Name="Ving Rhames" Character="Marsellus Wallace" />
+    <CastMember TmdbId="3129" Type="Actor" Name="Tim Roth" Character="Pumpkin" />
+    <CastMember TmdbId="99" Type="Actor" Name="Amanda Plummer" Character="Honey Bunny" />
+    <CastMember TmdbId="2319" Type="Actor" Name="Maria de Medeiros" Character="Fabienne" />
+    <CastMember TmdbId="11803" Type="Actor" Name="Peter Greene" Character="Zed" />
+    <CastMember TmdbId="2165" Type="Actor" Name="Rosanna Arquette" Character="Jody" />
+    <CastMember TmdbId="11804" Type="Actor" Name="Duane Whitaker" Character="Maynard" />
+    <CastMember TmdbId="3137" Type="Actor" Name="Paul Calderon" Character="Paul" />
+    <CastMember TmdbId="11805" Type="Actor" Name="Frank Whaley" Character="Brett" />
+    <CastMember TmdbId="884" Type="Actor" Name="Steve Buscemi" Character="Buddy Holly" />
+    <CastMember TmdbId="4690" Type="Actor" Name="Christopher Walken" Character="Captain Koons" />
+    <CastMember TmdbId="11806" Type="Actor" Name="Julia Sweeney" Character="Raquel" />
+    <CastMember TmdbId="11807" Type="Actor" Name="Laura Lovelace" Character="Waitress" />
+    <CastMember TmdbId="138" Type="Actor" Name="Quentin Tarantino" Character="Jimmie Dimmick" />
+    <CastMember TmdbId="19578" Type="Actor" Name="Alexis Arquette" Character="Man No. 4" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0482572</ImdbId>
+  <TmdbId>13150</TmdbId>
+  <Title>Pride and Glory</Title>
+  <Runtime>125</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2008-09-09T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A saga centered on a multi-generational family of New York City Police officers. The family's moral codes are tested when Ray Tierney, investigates a case that reveals an incendiary police corruption scandal involving his own brother-in-law. For Ray, the truth is revelatory, a Pandora's Box that threatens to upend not only the Tierney legacy but the entire NYPD.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=953</TrailerUrl>
+  <HomepageUrl>http://www.prideandglorymovie.com/</HomepageUrl>
+  <MediaFile>PRIDE_AND_GLORY_720P_X264_NLSUBBED_JUST4FUN_TEAM.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="819" Type="Actor" Name="Edward Norton" Character="Ray Tierney" />
+    <CastMember TmdbId="10127" Type="Actor" Name="Jon Voight" Character="Francis Tierney, Sr." />
+    <CastMember TmdbId="72466" Type="Actor" Name="Colin Farrell" Character="Jimmy Eagan" />
+    <CastMember TmdbId="77003" Type="Director" Name="Gavin O'Connor" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+  </Genres>
+</MovieInfo>

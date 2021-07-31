@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0889583</ImdbId>
+  <TmdbId>18480</TmdbId>
+  <Title>Brüno</Title>
+  <Runtime>83</Runtime>
+  <Rating>7.4</Rating>
+  <ReleaseDate>2009-07-10T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Flamboyantly gay Austrian television reporter Bruno (Sacha Baron Cohen) stirs up trouble with unsuspecting guests and large crowds through brutally frank interviews and painfully hilarious public displays of homosexuality.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1255</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>refined-bruno-720p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="6730" Type="Actor" Name="Sacha Baron Cohen" Character="Bruno" />
+    <CastMember TmdbId="6767" Type="Director" Name="Larry Charles" Character="" />
+    <CastMember TmdbId="83247" Type="Actor" Name="Richard Bey" Character="himself" />
+    <CastMember TmdbId="83248" Type="Actor" Name="Dr. Ron Paul" Character="himself" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+    <Genre Name="Documentary" />
+  </Genres>
+</MovieInfo>

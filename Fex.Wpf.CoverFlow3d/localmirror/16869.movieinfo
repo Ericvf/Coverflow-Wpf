@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0361748</ImdbId>
+  <TmdbId>16869</TmdbId>
+  <Title>Inglourious Basterds</Title>
+  <Runtime>153</Runtime>
+  <Rating>8.4</Rating>
+  <ReleaseDate>2009-08-21T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as "The Basterds" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=5sQhTVz5IjQ</TrailerUrl>
+  <HomepageUrl>http://www.inglouriousbasterds-movie.com/</HomepageUrl>
+  <MediaFile>m-isbs-720p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="138" Type="Director" Name="Quentin Tarantino" Character="" />
+    <CastMember TmdbId="287" Type="Actor" Name="Brad Pitt" Character="Lt. Aldo Raine" />
+    <CastMember TmdbId="2231" Type="Actor" Name="Samuel L. Jackson" Character="Narrator" />
+    <CastMember TmdbId="9599" Type="Actor" Name="Cloris Leachman" Character="Mrs. Himmelstein" />
+    <CastMember TmdbId="27319" Type="Actor" Name="Christoph Waltz" Character="Col. Hans Landa" />
+    <CastMember TmdbId="9824" Type="Actor" Name="Diane Kruger" Character="Bridget von Hammersmark" />
+    <CastMember TmdbId="12073" Type="Actor" Name="Mike Myers" Character="General Ed Fenech" />
+    <CastMember TmdbId="19119" Type="Actor" Name="Mélanie Laurent" Character="Shosanna Dreyfus" />
+    <CastMember TmdbId="17288" Type="Actor" Name="Michael Fassbender" Character="Lt. Archie Hicox" />
+    <CastMember TmdbId="16847" Type="Actor" Name="Eli Roth" Character="Sergeant Donny Donowitz" />
+    <CastMember TmdbId="1844" Type="Actor" Name="Til Schweiger" Character="Feldwebel Hugo Stiglitz" />
+    <CastMember TmdbId="107770" Type="Actor" Name="B. J. Novak" Character="Smithson Utivich" />
+    <CastMember TmdbId="32823" Type="Actor" Name="Gedeon Burkhard" Character="Corporal Wilhelm Wicki" />
+    <CastMember TmdbId="23286" Type="Actor" Name="Omar Doom" Character="Omar Ulmer" />
+    <CastMember TmdbId="58507" Type="Actor" Name="Samm Levine" Character="Gerold Hirschberg" />
+    <CastMember TmdbId="85236" Type="Actor" Name="Paul Rust" Character="Andy Kagan" />
+    <CastMember TmdbId="58744" Type="Actor" Name="Michael Bacall" Character="Michael Zimmerman" />
+    <CastMember TmdbId="107771" Type="Actor" Name="Carlos Fidel" Character="Simon Sakowitz" />
+    <CastMember TmdbId="8229" Type="Actor" Name="Rod Taylor" Character="Winston Churchill" />
+    <CastMember TmdbId="81125" Type="Actor" Name="Denis Menochet" Character="Perrier LaPadite" />
+    <CastMember TmdbId="51636" Type="Actor" Name="Jacky Ido" Character="Marcel" />
+    <CastMember TmdbId="7803" Type="Actor" Name="Christian Berkel" Character="Eric" />
+    <CastMember TmdbId="20259" Type="Actor" Name="Jana Pallaske" Character="Babette" />
+    <CastMember TmdbId="3872" Type="Actor" Name="Daniel Brühl" Character="Fredrick Zoller" />
+    <CastMember TmdbId="6091" Type="Actor" Name="August Diehl" Character="Sturmbannführer Dieter Hellstrom" />
+    <CastMember TmdbId="31663" Type="Actor" Name="Alexander Fehling" Character="Oberfeldwebel Wilhelm" />
+    <CastMember TmdbId="107772" Type="Actor" Name="Sönke Möhring" Character="Gefreiter  Butz" />
+    <CastMember TmdbId="49487" Type="Actor" Name="Richard Sammel" Character="Hauptfeldwebel Werner Rachtman" />
+    <CastMember TmdbId="41965" Type="Actor" Name="Sylvester Groth" Character="Joseph Goebbels" />
+    <CastMember TmdbId="71636" Type="Actor" Name="Martin Wuttke" Character="Adolf Hitler" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Comedy" />
+    <Genre Name="Drama" />
+    <Genre Name="History" />
+  </Genres>
+</MovieInfo>

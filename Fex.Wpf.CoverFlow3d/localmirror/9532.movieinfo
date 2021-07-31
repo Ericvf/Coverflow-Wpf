@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0195714</ImdbId>
+  <TmdbId>9532</TmdbId>
+  <Title>Final Destination</Title>
+  <Runtime>98</Runtime>
+  <Rating>7.2</Rating>
+  <ReleaseDate>2000-03-16T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>After having a vision of his friends crashing in a plane, he tells them not to get on only later his friends start getting killed one by one</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1345</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>iguana-fide.1080p.5.1.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="50398" Type="Actor" Name="Devon Sawa" Character="Alex Chance Browning" />
+    <CastMember TmdbId="17303" Type="Actor" Name="Ali Larter" Character="Clear Rivers" />
+    <CastMember TmdbId="43442" Type="Actor" Name="Kerr Smith" Character="Carter Horton" />
+    <CastMember TmdbId="19384" Type="Actor" Name="Tony Todd" Character="William Bludworth" />
+    <CastMember TmdbId="57599" Type="Actor" Name="Seann William Scott" Character="Billy Hitchcock" />
+    <CastMember TmdbId="57134" Type="Director" Name="James Wong" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Horror" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

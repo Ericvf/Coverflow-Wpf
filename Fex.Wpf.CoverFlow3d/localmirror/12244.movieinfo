@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0472033</ImdbId>
+  <TmdbId>12244</TmdbId>
+  <Title>9</Title>
+  <Runtime>79</Runtime>
+  <Rating>7.2</Rating>
+  <ReleaseDate>2009-09-09T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>When 9 first comes to life, he finds himself in a post-apocalyptic world. All humans are gone, and it is only by chance that he discovers a small community of others like him taking refuge from fearsome machines that roam the earth intent on their extinction. Despite being the neophyte of the group, 9 convinces the others that hiding will do them no good.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=905</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>9.2009.1080p.nlsubs.J4F.WMV</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="71923" Type="Director" Name="Shane Acker" Character="" />
+    <CastMember TmdbId="109" Type="Actor" Name="Elijah Wood" Character="9 (voice)" />
+    <CastMember TmdbId="4764" Type="Actor" Name="John C. Reilly" Character="5 (voice)" />
+    <CastMember TmdbId="6161" Type="Actor" Name="Jennifer Connelly" Character="7 (voice)" />
+    <CastMember TmdbId="290" Type="Actor" Name="Christopher Plummer" Character="1 (voice)" />
+    <CastMember TmdbId="1064" Type="Actor" Name="Crispin Glover" Character="6 (voice)" />
+    <CastMember TmdbId="2641" Type="Actor" Name="Martin Landau" Character="2 (voice)" />
+    <CastMember TmdbId="60279" Type="Actor" Name="Fred Tatasciore" Character="8 (voice)" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Adventure" />
+    <Genre Name="Animation" />
+    <Genre Name="Fantasy" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

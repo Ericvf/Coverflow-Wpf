@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0473705</ImdbId>
+  <TmdbId>16995</TmdbId>
+  <Title>State of Play</Title>
+  <Runtime>127</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2009-04-17T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Handsome, unflappable U.S. Congressman Stephen Collins is the future of his political party: an honorable appointee who serves as the chairman of a committee overseeing defense spending. All eyes are upon the rising star to be his party's contender for the upcoming presidential race. Until his research assistant/mistress is brutally murdered and buried secrets come tumbling out.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1113</TrailerUrl>
+  <HomepageUrl>http://www.stateofplaymovie.net/</HomepageUrl>
+  <MediaFile>refined-state.of.play-720p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="17350" Type="Director" Name="Kevin MacDonald" Character="" />
+    <CastMember TmdbId="934" Type="Actor" Name="Russell Crowe" Character="Cal McAffrey" />
+    <CastMember TmdbId="880" Type="Actor" Name="Ben Affleck" Character="Stephen Collins" />
+    <CastMember TmdbId="53714" Type="Actor" Name="Rachel McAdams" Character="Della Frye" />
+    <CastMember TmdbId="15735" Type="Actor" Name="Helen Mirren" Character="Cameron Lynne" />
+    <CastMember TmdbId="32" Type="Actor" Name="Robin Wright Penn" Character="Anne Collins" />
+    <CastMember TmdbId="23532" Type="Actor" Name="Jason Bateman" Character="Dominic Foy" />
+    <CastMember TmdbId="8447" Type="Actor" Name="Jeff Daniels" Character="Senator George Fergus" />
+    <CastMember TmdbId="81867" Type="Actor" Name="Michael Berresse" Character="Robert Bingham" />
+    <CastMember TmdbId="9464" Type="Actor" Name="Harry J. Lennix" Character="Det. Donald Bell" />
+    <CastMember TmdbId="33489" Type="Actor" Name="Josh Mostel" Character="Pete" />
+    <CastMember TmdbId="51381" Type="Actor" Name="Michael Weston" Character="Hank" />
+    <CastMember TmdbId="8689" Type="Actor" Name="Barry Shabaka Henley" Character="Gene Stavitz" />
+    <CastMember TmdbId="19492" Type="Actor" Name="Viola Davis" Character="Dr. Judith Franklin" />
+    <CastMember TmdbId="35029" Type="Actor" Name="David Harbour" Character="PointCorp Insider" />
+    <CastMember TmdbId="81868" Type="Actor" Name="Sarah Lord" Character="Mandi Brokaw" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

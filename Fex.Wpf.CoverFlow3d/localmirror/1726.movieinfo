@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0371746</ImdbId>
+  <TmdbId>1726</TmdbId>
+  <Title>Iron Man</Title>
+  <Runtime>126</Runtime>
+  <Rating>8.4</Rating>
+  <ReleaseDate>2008-04-30T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>When wealthy industrialist Tony Stark is forced to build an armored suit after a life-threatening incident, he ultimately decides to use its technology to fight against evil.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=vhgzIM-9lfA</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>1920-ironman-repack.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="15277" Type="Director" Name="Jon Favreau" Character="" />
+    <CastMember TmdbId="3223" Type="Actor" Name="Robert Downey Jr." Character="Tony Stark" />
+    <CastMember TmdbId="17857" Type="Actor" Name="Shaun Toub" Character="Yinsin" />
+    <CastMember TmdbId="12052" Type="Actor" Name="Gwyneth Paltrow" Character="Virginia 'Pepper' Potts" />
+    <CastMember TmdbId="1229" Type="Actor" Name="Jeff Bridges" Character="Obadiah Stane" />
+    <CastMember TmdbId="18288" Type="Actor" Name="Terrence Howard" Character="Jim Rhodes" />
+    <CastMember TmdbId="57451" Type="Actor" Name="Leslie Bibb" Character="Christine Everhart" />
+    <CastMember TmdbId="57452" Type="Actor" Name="Faran Tahir" Character="Raza" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Adventure" />
+    <Genre Name="Crime" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

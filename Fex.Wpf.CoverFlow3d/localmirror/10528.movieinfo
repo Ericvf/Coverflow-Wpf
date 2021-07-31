@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0988045</ImdbId>
+  <TmdbId>10528</TmdbId>
+  <Title>Sherlock Holmes</Title>
+  <Runtime>128</Runtime>
+  <Rating>7.0</Rating>
+  <ReleaseDate>2009-12-24T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1961</TrailerUrl>
+  <HomepageUrl>http://sherlock-holmes-movie.warnerbros.com/</HomepageUrl>
+  <MediaFile>Sherlock.Holmes.NL.720p.Bluray.x264-Monstie.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="956" Type="Director" Name="Guy Ritchie" Character="" />
+    <CastMember TmdbId="3223" Type="Actor" Name="Robert Downey Jr." Character="Sherlock Holmes" />
+    <CastMember TmdbId="53714" Type="Actor" Name="Rachel McAdams" Character="Irene Adler" />
+    <CastMember TmdbId="9642" Type="Actor" Name="Jude Law" Character="Dr. John Watson" />
+    <CastMember TmdbId="2983" Type="Actor" Name="Mark Strong" Character="Lord Blackwood" />
+    <CastMember TmdbId="17521" Type="Actor" Name="Kelly Reilly" Character="Mary" />
+    <CastMember TmdbId="10207" Type="Actor" Name="William Hope" Character="John Standish" />
+    <CastMember TmdbId="1665" Type="Actor" Name="Eddie Marsan" Character="Inspector Lestrade" />
+    <CastMember TmdbId="112692" Type="Actor" Name="Robert Maillet" Character="Dredger" />
+    <CastMember TmdbId="11855" Type="Actor" Name="Geraldine James" Character="Mrs. Hudson" />
+    <CastMember TmdbId="84865" Type="Actor" Name="William Houston" Character="Constable Clark" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Adventure" />
+    <Genre Name="Mystery" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0416449</ImdbId>
+  <TmdbId>1271</TmdbId>
+  <Title>300</Title>
+  <Runtime>117</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2006-12-09T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Based on Frank Miller's graphic novel, "300" concerns the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=769</TrailerUrl>
+  <HomepageUrl>http://300themovie.warnerbros.com</HomepageUrl>
+  <MediaFile>300.NLsubs.WVC1.720p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="15217" Type="Director" Name="Zack Snyder" Character="" />
+    <CastMember TmdbId="17276" Type="Actor" Name="Gerard Butler" Character="Leonidas" />
+    <CastMember TmdbId="17286" Type="Actor" Name="Lena Headey" Character="Gorgo" />
+    <CastMember TmdbId="1371" Type="Actor" Name="David Wenham" Character="Dilios" />
+    <CastMember TmdbId="17287" Type="Actor" Name="Dominic West" Character="Theron" />
+    <CastMember TmdbId="17288" Type="Actor" Name="Michael Fassbender" Character="Stelios" />
+    <CastMember TmdbId="9831" Type="Actor" Name="Vincent Regan" Character="Artemis" />
+    <CastMember TmdbId="17289" Type="Actor" Name="Rodrigo Santoro" Character="Xerxes" />
+    <CastMember TmdbId="17290" Type="Actor" Name="Andrew Tiernan" Character="Ephialtes" />
+    <CastMember TmdbId="17291" Type="Actor" Name="Andrew Pleavin" Character="Daxos" />
+    <CastMember TmdbId="17292" Type="Actor" Name="Tom Wisdom" Character="Astinos" />
+    <CastMember TmdbId="17293" Type="Actor" Name="Giovani Cimmino" Character="Pleistarchos" />
+    <CastMember TmdbId="17294" Type="Actor" Name="Tyler Neitzel" Character="Leonidas" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Adventure" />
+    <Genre Name="Fantasy" />
+    <Genre Name="History" />
+  </Genres>
+</MovieInfo>

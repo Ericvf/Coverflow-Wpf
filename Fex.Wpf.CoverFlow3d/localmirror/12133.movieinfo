@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0838283</ImdbId>
+  <TmdbId>12133</TmdbId>
+  <Title>Step Brothers</Title>
+  <Runtime>95</Runtime>
+  <Rating>4.8</Rating>
+  <ReleaseDate>2008-08-25T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Brennan Huff and Dale Doback might be grown men. But that doesn't stop them from living at home and turning into jealous, competitive stepbrothers when their single parents marry in this Judd Apatow-produced comedy. Brennan's constant competition with Dale strains his mom's marriage to Dale's dad, leaving everyone to wonder whether they'll ever see eye to eye.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=619</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>inf-sb.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="55710" Type="Director" Name="Adam McKay" Character="" />
+    <CastMember TmdbId="23659" Type="Actor" Name="Will Ferrell" Character="Brennan Huff" />
+    <CastMember TmdbId="4764" Type="Actor" Name="John C. Reilly" Character="Dale Doback" />
+    <CastMember TmdbId="2453" Type="Actor" Name="Mary Steenburgen" Character="Nancy Huff" />
+    <CastMember TmdbId="28633" Type="Actor" Name="Richard Jenkins" Character="Richard Jenkins" />
+    <CastMember TmdbId="36801" Type="Actor" Name="Adam Scott" Character="Derek" />
+    <CastMember TmdbId="17696" Type="Actor" Name="Kathryn Hahn" Character="Alice" />
+    <CastMember TmdbId="71402" Type="Actor" Name="Andrea Savage" Character="Denise" />
+    <CastMember TmdbId="71403" Type="Actor" Name="Rob Riggle" Character="Randy" />
+    <CastMember TmdbId="19274" Type="Actor" Name="Seth Rogen" Character="Sporting Goods Manager" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

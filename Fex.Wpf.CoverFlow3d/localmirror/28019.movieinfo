@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1258137</ImdbId>
+  <TmdbId>28019</TmdbId>
+  <Title>Give 'em Hell, Malone</Title>
+  <Runtime>96</Runtime>
+  <Rating>7.0</Rating>
+  <ReleaseDate>2009-01-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A tough as nails private investigator (Malone) squares off with gangsters and their thugs to protect a valuable secret. Malone goes through hell to protect the information but he dishes some hell as well...</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=06cXoom5l10</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Give.em.Hell.Malone.NLsubs.WVC1.1080p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="11155" Type="Actor" Name="Thomas Jane" Character="Malone" />
+    <CastMember TmdbId="10182" Type="Actor" Name="Ving Rhames" Character="Boulder" />
+    <CastMember TmdbId="73269" Type="Actor" Name="Elsa Pataky" Character="Evelyn" />
+    <CastMember TmdbId="6806" Type="Actor" Name="Doug Hutchison" Character="Matchstick" />
+    <CastMember TmdbId="2221" Type="Actor" Name="Leland Orser" Character="Murphy" />
+    <CastMember TmdbId="67711" Type="Actor" Name="French Stewart" Character="Frankie the Crooner" />
+    <CastMember TmdbId="52968" Type="Director" Name="Russell Mulcahy" Character="" />
+    <CastMember TmdbId="29370" Type="Actor" Name="Gregory Harrison" Character="Whitmore" />
+    <CastMember TmdbId="12543" Type="Actor" Name="Eileen Ryan" Character="Gloria" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Crime" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

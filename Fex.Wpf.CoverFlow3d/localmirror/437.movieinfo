@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0285492</ImdbId>
+  <TmdbId>437</TmdbId>
+  <Title>Cube 2: Hypercube</Title>
+  <Runtime>95</Runtime>
+  <Rating>5.0</Rating>
+  <ReleaseDate>2002-01-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>The sequel to the low budget first film ‘Cube.’ This time the prisoners find them selves in a more advanced cube environment that they must escape from before they are killed. A science fiction film were space and time have more than one path.</Overview>
+  <TrailerUrl />
+  <HomepageUrl>http://www.scifi.com/cube2/</HomepageUrl>
+  <MediaFile>Cube2.iso</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="3115" Type="Director" Name="Andrzej Sekula" Character="" />
+    <CastMember TmdbId="5937" Type="Actor" Name="Kari Matchett" Character="Kate Filmore" />
+    <CastMember TmdbId="5938" Type="Actor" Name="Geraint Wyn Davies" Character="Simon Grady" />
+    <CastMember TmdbId="5939" Type="Actor" Name="Grace Lynn Kung" Character="Sasha" />
+    <CastMember TmdbId="5940" Type="Actor" Name="Matthew Ferguson" Character="Max Reisler" />
+    <CastMember TmdbId="5941" Type="Actor" Name="Neil Crone" Character="Jerry Whitehall" />
+    <CastMember TmdbId="5942" Type="Actor" Name="Barbara Gordon" Character="Mrs. Paley" />
+    <CastMember TmdbId="5943" Type="Actor" Name="Lindsey Connell" Character="Julia" />
+    <CastMember TmdbId="5944" Type="Actor" Name="Greer Kent" Character="Becky Young" />
+    <CastMember TmdbId="5945" Type="Actor" Name="Bruce Gray" Character="Colonel Maguire" />
+    <CastMember TmdbId="5946" Type="Actor" Name="Philip Akin" Character="The General" />
+    <CastMember TmdbId="5947" Type="Actor" Name="Paul Robbins" Character="Tracton" />
+    <CastMember TmdbId="5948" Type="Actor" Name="Andrew Scorer" Character="Dr. Phil Rosenzweig" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

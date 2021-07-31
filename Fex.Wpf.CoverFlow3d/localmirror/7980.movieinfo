@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0380510</ImdbId>
+  <TmdbId>7980</TmdbId>
+  <Title>The Lovely Bones</Title>
+  <Runtime>135</Runtime>
+  <Rating>7.6</Rating>
+  <ReleaseDate>2009-11-24T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Centers on a young girl who has been murdered and watches over her family - and her killer - from heaven. She must weigh her desire for vengeance against her desire for her family to heal.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=3011</TrailerUrl>
+  <HomepageUrl>http://www.lovelybones.com</HomepageUrl>
+  <MediaFile>l-the.lovely.bones.repack.720.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="108" Type="Director" Name="Peter Jackson" Character="" />
+    <CastMember TmdbId="3293" Type="Actor" Name="Rachel Weisz" Character="Abigail Salmon" />
+    <CastMember TmdbId="13240" Type="Actor" Name="Mark Wahlberg" Character="Jack Salmon" />
+    <CastMember TmdbId="4038" Type="Actor" Name="Susan Sarandon" Character="Lynn" />
+    <CastMember TmdbId="36592" Type="Actor" Name="Saoirse Ronan" Character="Susie Salmon" />
+    <CastMember TmdbId="2283" Type="Actor" Name="Stanley Tucci" Character="George Harvey" />
+    <CastMember TmdbId="11486" Type="Actor" Name="Michael Imperioli" Character="Len Fenerman" />
+    <CastMember TmdbId="53485" Type="Actor" Name="Rose McIver" Character="Lindsey" />
+    <CastMember TmdbId="53486" Type="Actor" Name="Carolyn Dando" Character="Ruth Connors" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Drama" />
+  </Genres>
+</MovieInfo>

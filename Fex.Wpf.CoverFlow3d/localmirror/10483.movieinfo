@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0452608</ImdbId>
+  <TmdbId>10483</TmdbId>
+  <Title>Death Race</Title>
+  <Runtime>105</Runtime>
+  <Rating>8.4</Rating>
+  <ReleaseDate>2008-08-22T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Terminal Island, New York: 2020. Overcrowding in the US penal system has reached a breaking point. Prisons have been turned over to a monolithic Weyland Corporation, which sees jails full of thugs as an opportunity for televised sport. Adrenalized inmates, a global audience hungry for violence and a spectacular, enclosed arena come together to form the 'Death Race', the biggest, most brutal event.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1480</TrailerUrl>
+  <HomepageUrl>http://www.deathracemovie.net/</HomepageUrl>
+  <MediaFile>Death.Race.2008.1080p.nlsubs.J4F.WMV</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="4014" Type="Director" Name="Paul W.S. Anderson" Character="" />
+    <CastMember TmdbId="976" Type="Actor" Name="Jason Statham" Character="Jensen Ames" />
+    <CastMember TmdbId="11148" Type="Actor" Name="Joan Allen" Character="Warden Hennessey" />
+    <CastMember TmdbId="6972" Type="Actor" Name="Ian McShane" Character="Coach" />
+    <CastMember TmdbId="8169" Type="Actor" Name="Tyrese Gibson" Character="Machine Gun Joe Mason" />
+    <CastMember TmdbId="76511" Type="Actor" Name="Natalie Martinez" Character="Elizabeth Case" />
+    <CastMember TmdbId="21942" Type="Actor" Name="Max Ryan" Character="Pachenko" />
+    <CastMember TmdbId="16429" Type="Actor" Name="Jacob Vargas" Character="Gunner" />
+    <CastMember TmdbId="76512" Type="Actor" Name="Jason Clarke" Character="Guard Ulrich" />
+    <CastMember TmdbId="76513" Type="Actor" Name="Frederick Koehler" Character="Lists" />
+    <CastMember TmdbId="76514" Type="Actor" Name="Justin Mader" Character="Travis Colt" />
+    <CastMember TmdbId="65831" Type="Actor" Name="Robert LaSardo" Character="Hector Grimm" />
+    <CastMember TmdbId="57250" Type="Actor" Name="Robin Shou" Character="14K" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

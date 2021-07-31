@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0488120</ImdbId>
+  <TmdbId>6145</TmdbId>
+  <Title>Fracture</Title>
+  <Runtime>113</Runtime>
+  <Rating>7.6</Rating>
+  <ReleaseDate>2007-04-11T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A husband is on trial for the attempted murder of his wife, in what is seemingly an open/shut case for the ambitious district attorney trying to put him away. However, there are surprises for both around every corner, and, as a suspenseful game of cat-and-mouse is played out, each must manipulate and outwit the other.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1859</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Fracture.2007.720p.BluRay.DTS.x264-DON.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="4173" Type="Actor" Name="Anthony Hopkins" Character="Theodore Crawford" />
+    <CastMember TmdbId="30614" Type="Actor" Name="Ryan Gosling" Character="DDA William Beachum" />
+    <CastMember TmdbId="11064" Type="Actor" Name="David Strathairn" Character="DA Joe Lobruto" />
+    <CastMember TmdbId="6368" Type="Actor" Name="Embeth Davidtz" Character="Jennifer Crawford" />
+    <CastMember TmdbId="21029" Type="Actor" Name="Billy Burke" Character="Lt. Robert Nunally" />
+    <CastMember TmdbId="7248" Type="Actor" Name="Cliff Curtis" Character="Detective Flores" />
+    <CastMember TmdbId="10981" Type="Actor" Name="Fiona Shaw" Character="Judge Robinson" />
+    <CastMember TmdbId="21882" Type="Actor" Name="Josh Stamberg" Character="Norman Foster" />
+    <CastMember TmdbId="3982" Type="Actor" Name="Xander Berkeley" Character="Judge Moran" />
+    <CastMember TmdbId="35028" Type="Actor" Name="Zoe Kazan" Character="Mona" />
+    <CastMember TmdbId="44185" Type="Actor" Name="Judith Scott" Character="Resident" />
+    <CastMember TmdbId="17812" Type="Director" Name="Gregory Hoblit" Character="" />
+    <CastMember TmdbId="48136" Type="Actor" Name="Gary Cervantes" Character="Ciro" />
+    <CastMember TmdbId="48138" Type="Actor" Name="Petrea Burchard" Character="Dr. Marion Kang" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

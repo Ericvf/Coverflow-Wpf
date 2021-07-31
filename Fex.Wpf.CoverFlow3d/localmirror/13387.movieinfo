@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1129442</ImdbId>
+  <TmdbId>13387</TmdbId>
+  <Title>Transporter 3</Title>
+  <Runtime>100</Runtime>
+  <Rating>7.4</Rating>
+  <ReleaseDate>2008-12-05T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Frank Martin puts the driving gloves on to deliver Valentina, the kidnapped daughter of a Ukranian government official, from Marseilles to Odessa on the Black Sea. En route, he has to contend with thugs who want to intercept Valentina's safe delivery and not let his personal feelings get in the way of his dangerous objective.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=882</TrailerUrl>
+  <HomepageUrl>http://transporter3film.com/</HomepageUrl>
+  <MediaFile>Transporter.3.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="75035" Type="Director" Name="Olivier Megaton" Character="" />
+    <CastMember TmdbId="976" Type="Actor" Name="Jason Statham" Character="Frank Martin" />
+    <CastMember TmdbId="7693" Type="Actor" Name="François Berléand" Character="Inspector Tarconi" />
+    <CastMember TmdbId="75036" Type="Actor" Name="Natalya Rudakova" Character="Valentina Vasilev" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+  </Genres>
+</MovieInfo>

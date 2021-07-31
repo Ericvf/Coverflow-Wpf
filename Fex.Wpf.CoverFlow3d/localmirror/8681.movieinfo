@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0936501</ImdbId>
+  <TmdbId>8681</TmdbId>
+  <Title>Taken</Title>
+  <Runtime>93</Runtime>
+  <Rating>8.2</Rating>
+  <ReleaseDate>2008-02-27T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A recently retired Central Intelligence Agency paramilitary operative sets about tracking down his teenage daughter after she is kidnapped by slave traders while traveling in Europe.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1668</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Taken.2008.Bluray.VC1.1080P.5.1.WMV-NOVO.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="3896" Type="Actor" Name="Liam Neeson" Character="Bryan" />
+    <CastMember TmdbId="11825" Type="Actor" Name="Maggie Grace" Character="kim" />
+    <CastMember TmdbId="10696" Type="Actor" Name="Famke Janssen" Character="Lenore" />
+    <CastMember TmdbId="35453" Type="Director" Name="Pierre Morel" Character="" />
+    <CastMember TmdbId="3982" Type="Actor" Name="Xander Berkeley" Character="Stuart" />
+    <CastMember TmdbId="3982" Type="Actor" Name="Xander Berkeley" Character="Stuart" />
+    <CastMember TmdbId="55775" Type="Actor" Name="Katie Cassidy" Character="Amanda" />
+    <CastMember TmdbId="55776" Type="Actor" Name="Holly Valance" Character="Diva" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

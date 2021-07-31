@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0144117</ImdbId>
+  <TmdbId>8374</TmdbId>
+  <Title>The Boondock Saints</Title>
+  <Runtime>110</Runtime>
+  <Rating>8.6</Rating>
+  <ReleaseDate>1999-08-04T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Fraternal twins set out to rid Boston of the evil men operating there while being tracked down by an FBI agent.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=568</TrailerUrl>
+  <HomepageUrl>http://www.theboondocksaints.com</HomepageUrl>
+  <MediaFile>The.Boondock.Saints.NLsubs.WVC1.1080p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="5293" Type="Actor" Name="Willem Dafoe" Character="Paul Smecker" />
+    <CastMember TmdbId="4886" Type="Actor" Name="Norman Reedus" Character="Murphy McManus" />
+    <CastMember TmdbId="54789" Type="Actor" Name="Sean Patrick Flanery" Character="Connor McManus" />
+    <CastMember TmdbId="54790" Type="Actor" Name="David Della Rocco" Character="Rocco" />
+    <CastMember TmdbId="54791" Type="Actor" Name="David Ferry" Character="Detective Dolly" />
+    <CastMember TmdbId="54792" Type="Actor" Name="Brian Mahoney" Character="Detective Duffy" />
+    <CastMember TmdbId="9188" Type="Actor" Name="Billy Connolly" Character="II Duce" />
+    <CastMember TmdbId="54793" Type="Actor" Name="Carlo Rota" Character="Yakavetta" />
+    <CastMember TmdbId="42545" Type="Actor" Name="Ron Jeremy" Character="Vincenzo Lipazzi" />
+    <CastMember TmdbId="54795" Type="Director" Name="Troy Duffy" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

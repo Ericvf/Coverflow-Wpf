@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0414852</ImdbId>
+  <TmdbId>10045</TmdbId>
+  <Title>Banlieue 13</Title>
+  <Runtime>85</Runtime>
+  <Rating>7.4</Rating>
+  <ReleaseDate>2004-11-10T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Set in the ghettos of Paris in 2010, an undercover cop and ex-thug try to infiltrate a gang in order to defuse a neutron bomb.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>District.B13.2004.DVDRip.XviD-KamuiX.avi</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="35453" Type="Director" Name="Pierre Morel" Character="" />
+    <CastMember TmdbId="62439" Type="Actor" Name="David Belle" Character="Leïto" />
+    <CastMember TmdbId="62441" Type="Actor" Name="Tony D'Amario" Character="K2" />
+    <CastMember TmdbId="62442" Type="Actor" Name="Bibi Naceri" Character="Taha Bemamud" />
+    <CastMember TmdbId="62440" Type="Actor" Name="Cyril Raffaelli" Character="Capt. Damien Tomaso" />
+    <CastMember TmdbId="62443" Type="Actor" Name="Dany Verissimo" Character="Lola" />
+    <CastMember TmdbId="62444" Type="Actor" Name="François Chattot" Character="Krüger" />
+    <CastMember TmdbId="62445" Type="Actor" Name="Nicolas Woirion" Character="Corsini" />
+    <CastMember TmdbId="62446" Type="Actor" Name="Patrick Olivier" Character="Le colonel" />
+    <CastMember TmdbId="62449" Type="Actor" Name="Tarik Boucekhine" Character="Yoyo" />
+    <CastMember TmdbId="62448" Type="Actor" Name="Jérôme Gadner" Character="K2 boy 1" />
+    <CastMember TmdbId="62447" Type="Actor" Name="Samir Guesmi" Character="Jamel" />
+    <CastMember TmdbId="62451" Type="Actor" Name="Warren Zavatta" Character="Para 3" />
+    <CastMember TmdbId="62455" Type="Actor" Name="Turan Bagci" Character="Gorille entrée Marronniers" />
+    <CastMember TmdbId="62450" Type="Actor" Name="Grégory Jean" Character="Para 2" />
+    <CastMember TmdbId="62454" Type="Actor" Name="Dominique Dorol" Character="Cerbère Taha" />
+    <CastMember TmdbId="62453" Type="Actor" Name="Azad" Character="Tarik" />
+    <CastMember TmdbId="62452" Type="Actor" Name="Ludovic Berthillot" Character="Le gros mercenaire" />
+    <CastMember TmdbId="62456" Type="Actor" Name="Chamsi Charlesia" Character="Garde 2" />
+    <CastMember TmdbId="62458" Type="Actor" Name="Nicolas Wan Park" Character="Le Chinois" />
+    <CastMember TmdbId="62457" Type="Actor" Name="Gilles Gambino" Character="Garde 1" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

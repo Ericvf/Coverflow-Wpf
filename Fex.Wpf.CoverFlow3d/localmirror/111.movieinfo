@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0086250</ImdbId>
+  <TmdbId>111</TmdbId>
+  <Title>Scarface</Title>
+  <Runtime>170</Runtime>
+  <Rating>7.6</Rating>
+  <ReleaseDate>1983-12-09T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A remake of a classic gangster film of the same name from Howard Hanks in 1932. Scarface tells the rise and fall of the gangster and drug dealer Tony Montana who came to Miami as a refugee from Cuba in the 1980’s. A cult film and one of the most celebrated films of all time.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>Scarface.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="1150" Type="Director" Name="Brian de Palma" Character="" />
+    <CastMember TmdbId="1158" Type="Actor" Name="Al Pacino" Character="Tony Montana" />
+    <CastMember TmdbId="1159" Type="Actor" Name="Steven Bauer" Character="Manny Ribera" />
+    <CastMember TmdbId="1160" Type="Actor" Name="Michelle Pfeiffer" Character="Elvira Hancock" />
+    <CastMember TmdbId="1161" Type="Actor" Name="Mary Elizabeth Mastrantonio" Character="Gina Montana" />
+    <CastMember TmdbId="1162" Type="Actor" Name="Robert Loggia" Character="Frank Lopez" />
+    <CastMember TmdbId="1163" Type="Actor" Name="Miriam Colon" Character="Mama Montana" />
+    <CastMember TmdbId="1164" Type="Actor" Name="F. Murray Abraham" Character="Omar Suarez" />
+    <CastMember TmdbId="1165" Type="Actor" Name="Paul Shenar" Character="Alejandro Sosa" />
+    <CastMember TmdbId="1166" Type="Actor" Name="Harris Yulin" Character="Mel Bernstein" />
+    <CastMember TmdbId="1167" Type="Actor" Name="Ángel Salazar" Character="Chi Chi" />
+    <CastMember TmdbId="1168" Type="Actor" Name="Arnaldo Santana" Character="Ernie" />
+    <CastMember TmdbId="1169" Type="Actor" Name="Pepe Serna" Character="Angel" />
+    <CastMember TmdbId="1170" Type="Actor" Name="Michael P. Moran" Character="Nick The Pig" />
+    <CastMember TmdbId="1171" Type="Actor" Name="Al Israel" Character="Hector The Toad" />
+    <CastMember TmdbId="1172" Type="Actor" Name="Dennis Holahan" Character="Jerry The Banker" />
+    <CastMember TmdbId="1173" Type="Actor" Name="Mark Margolis" Character="Alberto The Shadow" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

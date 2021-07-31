@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0443473</ImdbId>
+  <TmdbId>14636</TmdbId>
+  <Title>The Condemned</Title>
+  <Runtime>113</Runtime>
+  <Rating>7.6</Rating>
+  <ReleaseDate>2007-04-27T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Jack Conrad is awaiting the death penalty in a corrupt Central American prison. He is "purchased" by a wealthy television producer and taken to a desolate island where he must fight to the death against nine other condemned killers from all corners of the world, with freedom going to the sole survivor.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>The Condemned.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="77120" Type="Actor" Name="Steve Austin" Character="Conrad" />
+    <CastMember TmdbId="980" Type="Actor" Name="Vinnie Jones" Character="McStarley" />
+    <CastMember TmdbId="83985" Type="Director" Name="Scott Wiper" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Crime" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

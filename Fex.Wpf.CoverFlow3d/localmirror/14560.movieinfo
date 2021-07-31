@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1114740</ImdbId>
+  <TmdbId>14560</TmdbId>
+  <Title>Paul Blart: Mall Cop</Title>
+  <Runtime>91</Runtime>
+  <Rating>6.0</Rating>
+  <ReleaseDate>2009-01-16T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Paul Blart: Mall Cop tells another tale of a hapless dimwit who inadvertently winds up being pitted against a group of international thieves and somehow winds up saving the day and realizing that maybe he's not so dumb afterall.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1226</TrailerUrl>
+  <HomepageUrl>http://paulblartmallcop.com/</HomepageUrl>
+  <MediaFile>refined-mallcop-blu1080p.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="32895" Type="Actor" Name="Kevin James" Character="Paul Blart" />
+    <CastMember TmdbId="52112" Type="Director" Name="Steve Carr" Character="" />
+    <CastMember TmdbId="39213" Type="Actor" Name="Keir O'Donnell" Character="Veck Sims" />
+    <CastMember TmdbId="34195" Type="Actor" Name="Jayma Mays" Character="Amy" />
+    <CastMember TmdbId="78436" Type="Actor" Name="Raini Rodriguez" Character="Maya Blart" />
+    <CastMember TmdbId="28778" Type="Actor" Name="Shirley Knight" Character="Mom" />
+    <CastMember TmdbId="78437" Type="Actor" Name="Stephen Rannazzisi" Character="Stuart" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

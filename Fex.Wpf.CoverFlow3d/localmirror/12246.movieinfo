@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0416044</ImdbId>
+  <TmdbId>12246</TmdbId>
+  <Title>Mongol</Title>
+  <Runtime>120</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2007-08-10T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>The story recounts the early life of Genghis Khan who was a slave before going on to conquer half the world including Russia in 1206.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=729</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Mongol.2007.1080p.Bluray.DTS.x264-SHiTSoNy.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="71871" Type="Director" Name="Sergei Bodrov" Character="" />
+    <CastMember TmdbId="13275" Type="Actor" Name="Tadanobu Asano" Character="Temudjin" />
+    <CastMember TmdbId="73774" Type="Actor" Name="Sun Honglei" Character="Jamukha" />
+    <CastMember TmdbId="73775" Type="Actor" Name="Khulan Chuluun" Character="Borte" />
+    <CastMember TmdbId="73776" Type="Actor" Name="Ba Sen" Character="Esugei" />
+    <CastMember TmdbId="73777" Type="Actor" Name="Aliya" Character="Oelun" />
+    <CastMember TmdbId="86625" Type="Actor" Name="amadu" Character="Targutai" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Adventure" />
+    <Genre Name="Drama" />
+    <Genre Name="History" />
+  </Genres>
+</MovieInfo>

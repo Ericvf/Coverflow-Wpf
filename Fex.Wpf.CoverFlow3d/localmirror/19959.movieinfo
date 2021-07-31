@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0986263</ImdbId>
+  <TmdbId>19959</TmdbId>
+  <Title>Surrogates</Title>
+  <Runtime>88</Runtime>
+  <Rating>6.2</Rating>
+  <ReleaseDate>2009-09-25T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>In the near future, humans live in isolation and only interact through robotic bodies that serve as surrogates. When several humans are murdered when their surrogates are destroyed, a cop (Bruce Willis) investigates the crimes through his own surrogate. After a near fatal encounter, the cop's surrogate is destroyed and forces him to bring his human form out of isolation and unravel a conspiracy.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=2516</TrailerUrl>
+  <HomepageUrl>http://chooseyoursurrogate.com/</HomepageUrl>
+  <MediaFile>STps3-surrogates.720.2009_NLsubs.mpg</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="62" Type="Actor" Name="Bruce Willis" Character="Agent Greer" />
+    <CastMember TmdbId="8329" Type="Actor" Name="Radha Mitchell" Character="Peters" />
+    <CastMember TmdbId="7213" Type="Director" Name="Jonathan Mostow" Character="" />
+    <CastMember TmdbId="10882" Type="Actor" Name="Rosamund Pike" Character="Maggie" />
+    <CastMember TmdbId="2505" Type="Actor" Name="James Cromwell" Character="Canter" />
+    <CastMember TmdbId="10182" Type="Actor" Name="Ving Rhames" Character="Prophet" />
+    <CastMember TmdbId="113676" Type="Actor" Name="Helena Mattsson" Character="JJ" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

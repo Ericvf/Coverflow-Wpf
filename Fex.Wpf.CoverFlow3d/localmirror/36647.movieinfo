@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0120611</ImdbId>
+  <TmdbId>36647</TmdbId>
+  <Title>Blade</Title>
+  <Runtime>120</Runtime>
+  <Rating>8.4</Rating>
+  <ReleaseDate>1998-08-21T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Wesley Snipes stars as the tortured soul Blade - half man, half immortal.  Blade sharpens his lethal skills under the guidance of Whistler (Kris Kristofferson), his mentor, guardian and fellow hunter of the night.  When the bloodthirsty Immortal's lord, Deacon Frost (Stephen Dorff), declares war on the human race, Blade is humanity's last hope for survival.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1mliGfc09Lw</TrailerUrl>
+  <HomepageUrl>http://www.newline.com/properties/blade.html</HomepageUrl>
+  <MediaFile>Blade.1998.1080p.BluRay.x264-CiNEFiLE.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="10808" Type="Director" Name="Stephen Norrington" Character="" />
+    <CastMember TmdbId="10814" Type="Actor" Name="Wesley Snipes" Character="Blade" />
+    <CastMember TmdbId="10822" Type="Actor" Name="Stephen Dorff" Character="Deacon Frost" />
+    <CastMember TmdbId="10823" Type="Actor" Name="Kris Kristofferson" Character="Whistler" />
+    <CastMember TmdbId="10824" Type="Actor" Name="N'Bushe Wright" Character="Karen" />
+    <CastMember TmdbId="10825" Type="Actor" Name="Donal Logue" Character="Quinn" />
+    <CastMember TmdbId="1646" Type="Actor" Name="Udo Kier" Character="Dragonetti" />
+    <CastMember TmdbId="66147" Type="Actor" Name="Arly Jover" Character="Mercury" />
+    <CastMember TmdbId="10826" Type="Actor" Name="Traci Lords" Character="Racquel" />
+    <CastMember TmdbId="10827" Type="Actor" Name="Kevin Patrick Walls" Character="Krieger" />
+    <CastMember TmdbId="40275" Type="Actor" Name="Tim Guinee" Character="Curtis Webb" />
+    <CastMember TmdbId="5411" Type="Actor" Name="Sanaa Lathan" Character="Vanessa" />
+    <CastMember TmdbId="115786" Type="Actor" Name="Eric Edwards" Character="Pearl" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Adventure" />
+    <Genre Name="Fantasy" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

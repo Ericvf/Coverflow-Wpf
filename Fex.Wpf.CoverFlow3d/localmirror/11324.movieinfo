@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1130884</ImdbId>
+  <TmdbId>11324</TmdbId>
+  <Title>Shutter Island</Title>
+  <Runtime>138</Runtime>
+  <Rating>8.2</Rating>
+  <ReleaseDate>2010-02-19T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Drama is set in 1954, U.S. Marshal Teddy Daniels is investigating the disappearance of a murderess who escaped from a hospital for the criminally insane and is presumed to be hiding on the remote Shutter Island.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=HYVrHkYoY80</TrailerUrl>
+  <HomepageUrl>http://www.shutterisland.com/</HomepageUrl>
+  <MediaFile>Shutter.Island.NL.2010.1080p.HD.TC.LiNE.x264-Monstie.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="1032" Type="Director" Name="Martin Scorsese" Character="" />
+    <CastMember TmdbId="6193" Type="Actor" Name="Leonardo DiCaprio" Character="Teddy Daniels" />
+    <CastMember TmdbId="103" Type="Actor" Name="Mark Ruffalo" Character="Chuck Aule" />
+    <CastMember TmdbId="2282" Type="Actor" Name="Ben Kingsley" Character="Dr. John Cawley" />
+    <CastMember TmdbId="1246" Type="Actor" Name="Emily Mortimer" Character="Rachel Solando" />
+    <CastMember TmdbId="1812" Type="Actor" Name="Michelle Williams" Character="Dolores Chanal" />
+    <CastMember TmdbId="2201" Type="Actor" Name="Max von Sydow" Character="Dr. Jeremiah Naehring" />
+    <CastMember TmdbId="17183" Type="Actor" Name="Jackie Earle Haley" Character="George Noyce" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Thriller" />
+    <Genre Name="Mystery" />
+  </Genres>
+</MovieInfo>

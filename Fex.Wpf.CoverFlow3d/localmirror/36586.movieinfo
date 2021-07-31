@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0187738</ImdbId>
+  <TmdbId>36586</TmdbId>
+  <Title>Blade II</Title>
+  <Runtime>117</Runtime>
+  <Rating>8.4</Rating>
+  <ReleaseDate>2002-03-22T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A rare mutation has occurred within the vampire community. The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Now their quickly expanding population threatens the existence of vampires, and soon there won't be enough humans in the world to satisfy their bloodlust. Blade, Whistler (Yes, he's back) and an armory expert named Scud are curiously summoned by the Shadow Council. The council reluctantly admits that they are in a dire situation and they require Blade's assistance. Blade then tenuously enters into an alliance with The Bloodpack, an elite team of vampires trained in all modes of combat to defeat the Reaper threat. Blade's team and the Bloodpack are the only line of defense which can prevent the Reaper population from wiping out the vampire and human populations.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=fcCQ7xk8zzM</TrailerUrl>
+  <HomepageUrl>http://www.newline.com/properties/blade2.html</HomepageUrl>
+  <MediaFile>Blade.II.2002.1080p.BluRay.DTS.x264-HDC.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="10814" Type="Actor" Name="Wesley Snipes" Character="Blade" />
+    <CastMember TmdbId="10828" Type="Director" Name="Guillermo del Toro" Character="" />
+    <CastMember TmdbId="10823" Type="Actor" Name="Kris Kristofferson" Character="Whistler" />
+    <CastMember TmdbId="114056" Type="Actor" Name="Ron Perlman" Character="Reinhardt" />
+    <CastMember TmdbId="10839" Type="Actor" Name="Leonor Varela" Character="Nyssa" />
+    <CastMember TmdbId="4886" Type="Actor" Name="Norman Reedus" Character="Scud" />
+    <CastMember TmdbId="3491" Type="Actor" Name="Thomas Kretschmann" Character="Damaskinos" />
+    <CastMember TmdbId="10843" Type="Actor" Name="Luke Goss" Character="Nomak" />
+    <CastMember TmdbId="31841" Type="Actor" Name="Matt Schulze" Character="Chupa" />
+    <CastMember TmdbId="115787" Type="Actor" Name="Danny John-Jules" Character="Asad" />
+    <CastMember TmdbId="1341" Type="Actor" Name="Donnie Yen" Character="Snowman" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Adventure" />
+    <Genre Name="Fantasy" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

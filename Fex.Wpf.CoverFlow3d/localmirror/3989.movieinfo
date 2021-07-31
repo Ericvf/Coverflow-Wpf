@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0372588</ImdbId>
+  <TmdbId>3989</TmdbId>
+  <Title>Team America: World Police</Title>
+  <Runtime>98</Runtime>
+  <Rating>7.6</Rating>
+  <ReleaseDate>2004-10-11T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Team America is putting back the F in Freedom, all else is collatoral damage.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1665</TrailerUrl>
+  <HomepageUrl>http://www.teamamerica.com</HomepageUrl>
+  <MediaFile>Team.America.World.Police.iso</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="34517" Type="Director" Name="Trey Parker" Character="" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Gary Johnston (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Hans Blix (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Joe (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Kim Jong Il (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Carson (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Matt Damon (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Tim Robbins (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Sean Penn (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Michael Moore (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Helen Hunt (voice)" />
+    <CastMember TmdbId="34517" Type="Actor" Name="Trey Parker" Character="Susan Saradon (voice)" />
+    <CastMember TmdbId="34518" Type="Actor" Name="Matt Stone" Character="Chris (voice)" />
+    <CastMember TmdbId="34518" Type="Actor" Name="Matt Stone" Character="George Clooney (voice)" />
+    <CastMember TmdbId="34518" Type="Actor" Name="Matt Stone" Character="Danny Glover (voice)" />
+    <CastMember TmdbId="34518" Type="Actor" Name="Matt Stone" Character="Ethan Hawke (voice)" />
+    <CastMember TmdbId="34519" Type="Actor" Name="Kristen Miller" Character="Lisa (voice)" />
+    <CastMember TmdbId="34520" Type="Actor" Name="Masasa Moyo" Character="Sarah (voice)" />
+    <CastMember TmdbId="31162" Type="Actor" Name="Daran Norris" Character="Spottswoode (voice)" />
+    <CastMember TmdbId="34521" Type="Actor" Name="Maurice LaMarche" Character="Alec Baldwin (voice)" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Animation" />
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

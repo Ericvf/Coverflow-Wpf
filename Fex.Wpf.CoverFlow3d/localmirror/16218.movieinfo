@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0086964</ImdbId>
+  <TmdbId>16218</TmdbId>
+  <Title>The Big Bang</Title>
+  <Runtime>76</Runtime>
+  <Rating>0.0</Rating>
+  <ReleaseDate>1987-03-18T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>In 1995, Italy annihilates Libya, which destroys Israel. Africa bombs Germany, which in turn attacks France. Luxembourg conquers England. Sweden, Monte Carlo and Switzerland immolate themselves.The Russians decide to liquidate the Americans, who unleash their nuclear fleet, leaving only two continents on the verge of World War IV.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>the.big.bang.theory.s03e23.720p.hdtv.x264-ctu.mkv</MediaFile>
+  <CastMembers />
+  <Genres>
+    <Genre Name="Animation" />
+    <Genre Name="Comedy" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0870984</ImdbId>
+  <TmdbId>17609</TmdbId>
+  <Title>Antichrist</Title>
+  <Runtime>100</Runtime>
+  <Rating>0.0</Rating>
+  <ReleaseDate>2009-05-29T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A grieving couple retreats to their cabin 'Eden' in the woods, hoping to repair their broken hearts and troubled marriage. But nature takes its course and things go from bad to worse.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>bd4p-antichrist.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="5293" Type="Actor" Name="Willem Dafoe" Character="He" />
+    <CastMember TmdbId="4273" Type="Actor" Name="Charlotte Gainsbourg" Character="She" />
+    <CastMember TmdbId="42" Type="Director" Name="Lars von Trier" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Drama" />
+    <Genre Name="Horror" />
+  </Genres>
+</MovieInfo>

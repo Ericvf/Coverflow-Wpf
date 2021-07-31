@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0445934</ImdbId>
+  <TmdbId>9955</TmdbId>
+  <Title>Blades of Glory</Title>
+  <Runtime>93</Runtime>
+  <Rating>6.6</Rating>
+  <ReleaseDate>2007-03-30T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>In 2002, two rival Olympic ice skaters were stripped of their gold medals and permanently banned from men's single competition. Presently, however, they've found a loophole that will allow them to qualify as a pairs team.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1448</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>BLADES_OF_GLORY_720P_X264_NLSUBBED_JUST4FUN_TEAM.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="60922" Type="Director" Name="Josh Gordon" Character="" />
+    <CastMember TmdbId="60923" Type="Director" Name="Will Speck" Character="" />
+    <CastMember TmdbId="23659" Type="Actor" Name="Will Ferrell" Character="Chazz Michael Michaels" />
+    <CastMember TmdbId="53926" Type="Actor" Name="Jon Heder" Character="Jimmy MacElroy" />
+    <CastMember TmdbId="21200" Type="Actor" Name="Will Arnett" Character="Stranz Van Waldenberg" />
+    <CastMember TmdbId="51856" Type="Actor" Name="Jenna Fischer" Character="Katie Van Waldenberg" />
+    <CastMember TmdbId="56322" Type="Actor" Name="Amy Poehler" Character="Fairchild Van Waldenberg" />
+    <CastMember TmdbId="886" Type="Actor" Name="William Fichtner" Character="Darren MacElroy" />
+    <CastMember TmdbId="8977" Type="Actor" Name="Craig T. Nelson" Character="Coach" />
+    <CastMember TmdbId="32907" Type="Actor" Name="Nick Swardson" Character="Hector" />
+    <CastMember TmdbId="71530" Type="Actor" Name="Romany Malco" Character="Jesse" />
+    <CastMember TmdbId="28637" Type="Actor" Name="Andy Richter" Character="Mountie" />
+    <CastMember TmdbId="39214" Type="Actor" Name="Nick Jameson" Character="PA Announcer" />
+    <CastMember TmdbId="38709" Type="Actor" Name="Tom Virtue" Character="Floor Manager" />
+    <CastMember TmdbId="60940" Type="Actor" Name="Greg Lindsay" Character="Mountie" />
+    <CastMember TmdbId="60939" Type="Actor" Name="Scott Hamilton" Character="Sports Anchor" />
+    <CastMember TmdbId="60938" Type="Actor" Name="Rob Corddry" Character="Bryce" />
+    <CastMember TmdbId="38526" Type="Actor" Name="Rémy Girard" Character="Father St. Pierre" />
+    <CastMember TmdbId="60942" Type="Actor" Name="William Daniels" Character="Commissioner Ebbers" />
+    <CastMember TmdbId="60943" Type="Actor" Name="Zachary Ferren" Character="Young Jimmy" />
+    <CastMember TmdbId="60941" Type="Actor" Name="Ben Wilson" Character="Fox" />
+    <CastMember TmdbId="60944" Type="Actor" Name="Steven M. Gagnon" Character="Rink Official World Games" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

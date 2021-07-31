@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1225822</ImdbId>
+  <TmdbId>12569</TmdbId>
+  <Title>Extract</Title>
+  <Runtime>92</Runtime>
+  <Rating>5.2</Rating>
+  <ReleaseDate>2009-09-04T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Dean (Bateman), the owner of a flower-extract plant, tries to contend with myriad personal and professional problems, such as his potentially unfaithful wife (Wiig) and employees who want to take advantage of him</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1916</TrailerUrl>
+  <HomepageUrl>http://www.extract-the-movie.com/</HomepageUrl>
+  <MediaFile>cbgb-extract.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="17403" Type="Director" Name="Mike Judge" Character="" />
+    <CastMember TmdbId="880" Type="Actor" Name="Ben Affleck" Character="Dean" />
+    <CastMember TmdbId="5365" Type="Actor" Name="Clifton Collins Jr." Character="Step" />
+    <CastMember TmdbId="23532" Type="Actor" Name="Jason Bateman" Character="Joel" />
+    <CastMember TmdbId="18973" Type="Actor" Name="Mila Kunis" Character="Cindy" />
+    <CastMember TmdbId="41091" Type="Actor" Name="Kristen Wiig" Character="Suzie" />
+    <CastMember TmdbId="28638" Type="Actor" Name="David Koechner" Character="Nathan" />
+    <CastMember TmdbId="57756" Type="Actor" Name="Gene Simmons" Character="Joe Adler" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

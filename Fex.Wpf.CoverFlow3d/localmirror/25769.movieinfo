@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0806203</ImdbId>
+  <TmdbId>25769</TmdbId>
+  <Title>Carriers</Title>
+  <Runtime>84</Runtime>
+  <Rating>6.5</Rating>
+  <ReleaseDate>2009-09-04T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Four friends fleeing a viral pandemic soon learn they are more dangerous than any virus.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=2341</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Carriers.NLsubs.WVC1.1080p-VisualScumBagz.wmv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="17441" Type="Actor" Name="Lou Taylor Pucci" Character="Danny" />
+    <CastMember TmdbId="62064" Type="Actor" Name="Chris Pine" Character="Brian" />
+    <CastMember TmdbId="15555" Type="Actor" Name="Piper Perabo" Character="Bobby" />
+    <CastMember TmdbId="84247" Type="Actor" Name="Emily VanCamp" Character="Kate" />
+    <CastMember TmdbId="94220" Type="Director" Name="Àlex Pastor" Character="" />
+    <CastMember TmdbId="94223" Type="Director" Name="David Pastor" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Horror" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

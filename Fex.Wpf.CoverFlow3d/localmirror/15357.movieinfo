@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1247640</ImdbId>
+  <TmdbId>15357</TmdbId>
+  <Title>Banlieue 13 - Ultimatum</Title>
+  <Runtime>98</Runtime>
+  <Rating>9.0</Rating>
+  <ReleaseDate>2009-02-18T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Damien and Leito return to District 13 on a mission to bring peace to the troubled sector that is controlled by five different gang bosses, before the city's secret services take drastic measures to solve the problem.</Overview>
+  <TrailerUrl />
+  <HomepageUrl>http://www.b13ultimatum-lefilm.com/</HomepageUrl>
+  <MediaFile>fb-b13u-720.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="78146" Type="Director" Name="Patrick Alessandrin" Character="" />
+    <CastMember TmdbId="21946" Type="Actor" Name="Cyrill Raffaelli" Character="Damien" />
+    <CastMember TmdbId="62439" Type="Actor" Name="David Belle" Character="Leïto" />
+    <CastMember TmdbId="23669" Type="Actor" Name="Philippe Torreton" Character="Le Président de la République" />
+    <CastMember TmdbId="6018" Type="Actor" Name="Daniel Duval" Character="Walter Gassman" />
+    <CastMember TmdbId="78147" Type="Actor" Name="Elodie Yung" Character="Tao" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+  </Genres>
+</MovieInfo>

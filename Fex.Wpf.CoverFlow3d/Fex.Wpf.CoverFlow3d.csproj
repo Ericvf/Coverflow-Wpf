@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3429522A-9B38-468D-95F9-0712EE532A4B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Fex.Wpf.CoverFlow3d</RootNamespace>
+    <AssemblyName>Fex.Wpf.CoverFlow3d</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="CastMember.cs" />
+    <Compile Include="CoverFlow\CoverFlowItem.cs" />
+    <Compile Include="Genre.cs" />
+    <Compile Include="XmlSerializationHelper.cs" />
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CoverFlow\CoverFlow3d.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MovieThumbnail.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MovieInfo.cs" />
+    <Compile Include="MovieThumbnail.xaml.cs">
+      <DependentUpon>MovieThumbnail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="localmirror\10032.movieinfo" />
+    <None Include="localmirror\10045.movieinfo" />
+    <None Include="localmirror\10358.movieinfo" />
+    <None Include="localmirror\10483.movieinfo" />
+    <None Include="localmirror\10528.movieinfo" />
+    <None Include="localmirror\10661.movieinfo" />
+    <None Include="localmirror\111.movieinfo" />
+    <None Include="localmirror\11321.movieinfo" />
+    <None Include="localmirror\11323.movieinfo" />
+    <None Include="localmirror\11324.movieinfo" />
+    <None Include="localmirror\11635.movieinfo" />
+    <None Include="localmirror\12133.movieinfo" />
+    <None Include="localmirror\12155.movieinfo" />
+    <None Include="localmirror\12201.movieinfo" />
+    <None Include="localmirror\12244.movieinfo" />
+    <None Include="localmirror\12246.movieinfo" />
+    <None Include="localmirror\12569.movieinfo" />
+    <None Include="localmirror\1271.movieinfo" />
+    <None Include="localmirror\12877.movieinfo" />
+    <None Include="localmirror\13018.movieinfo" />
+    <None Include="localmirror\13056.movieinfo" />
+    <None Include="localmirror\13150.movieinfo" />
+    <None Include="localmirror\13180.movieinfo" />
+    <None Include="localmirror\13387.movieinfo" />
+    <None Include="localmirror\13448.movieinfo" />
+    <None Include="localmirror\13475.movieinfo" />
+    <None Include="localmirror\1359.movieinfo" />
+    <None Include="localmirror\13648.movieinfo" />
+    <None Include="localmirror\1381.movieinfo" />
+    <None Include="localmirror\14013.movieinfo" />
+    <None Include="localmirror\14161.movieinfo" />
+    <None Include="localmirror\14220.movieinfo" />
+    <None Include="localmirror\14560.movieinfo" />
+    <None Include="localmirror\14636.movieinfo" />
+    <None Include="localmirror\15357.movieinfo" />
+    <None Include="localmirror\15373.movieinfo" />
+    <None Include="localmirror\155.movieinfo" />
+    <None Include="localmirror\1562.movieinfo" />
+    <None Include="localmirror\1620.movieinfo" />
+    <None Include="localmirror\16218.movieinfo" />
+    <None Include="localmirror\16869.movieinfo" />
+    <None Include="localmirror\16991.movieinfo" />
+    <None Include="localmirror\16995.movieinfo" />
+    <None Include="localmirror\170.movieinfo" />
+    <None Include="localmirror\1726.movieinfo" />
+    <None Include="localmirror\17609.movieinfo" />
+    <None Include="localmirror\17654.movieinfo" />
+    <None Include="localmirror\18360.movieinfo" />
+    <None Include="localmirror\18480.movieinfo" />
+    <None Include="localmirror\18487.movieinfo" />
+    <None Include="localmirror\18501.movieinfo" />
+    <None Include="localmirror\1858.movieinfo" />
+    <None Include="localmirror\186.movieinfo" />
+    <None Include="localmirror\18785.movieinfo" />
+    <None Include="localmirror\19898.movieinfo" />
+    <None Include="localmirror\19901.movieinfo" />
+    <None Include="localmirror\19908.movieinfo" />
+    <None Include="localmirror\19959.movieinfo" />
+    <None Include="localmirror\19994.movieinfo" />
+    <None Include="localmirror\20178.movieinfo" />
+    <None Include="localmirror\2062.movieinfo" />
+    <None Include="localmirror\20829.movieinfo" />
+    <None Include="localmirror\22821.movieinfo" />
+    <None Include="localmirror\22824.movieinfo" />
+    <None Include="localmirror\22825.movieinfo" />
+    <None Include="localmirror\22894.movieinfo" />
+    <None Include="localmirror\23483.movieinfo" />
+    <None Include="localmirror\23568.movieinfo" />
+    <None Include="localmirror\24056.movieinfo" />
+    <None Include="localmirror\24463.movieinfo" />
+    <None Include="localmirror\24757.movieinfo" />
+    <None Include="localmirror\25769.movieinfo" />
+    <None Include="localmirror\25927.movieinfo" />
+    <None Include="localmirror\26688.movieinfo" />
+    <None Include="localmirror\26715.movieinfo" />
+    <None Include="localmirror\27004.movieinfo" />
+    <None Include="localmirror\277.movieinfo" />
+    <None Include="localmirror\278.movieinfo" />
+    <None Include="localmirror\28019.movieinfo" />
+    <None Include="localmirror\2832.movieinfo" />
+    <None Include="localmirror\28665.movieinfo" />
+    <None Include="localmirror\29427.movieinfo" />
+    <None Include="localmirror\35153.movieinfo" />
+    <None Include="localmirror\35656.movieinfo" />
+    <None Include="localmirror\36586.movieinfo" />
+    <None Include="localmirror\36647.movieinfo" />
+    <None Include="localmirror\3989.movieinfo" />
+    <None Include="localmirror\437.movieinfo" />
+    <None Include="localmirror\4597.movieinfo" />
+    <None Include="localmirror\4959.movieinfo" />
+    <None Include="localmirror\598.movieinfo" />
+    <None Include="localmirror\6145.movieinfo" />
+    <None Include="localmirror\680.movieinfo" />
+    <None Include="localmirror\7299.movieinfo" />
+    <None Include="localmirror\7446.movieinfo" />
+    <None Include="localmirror\7737.movieinfo" />
+    <None Include="localmirror\7980.movieinfo" />
+    <None Include="localmirror\8193.movieinfo" />
+    <None Include="localmirror\8284.movieinfo" />
+    <None Include="localmirror\834.movieinfo" />
+    <None Include="localmirror\8373.movieinfo" />
+    <None Include="localmirror\8374.movieinfo" />
+    <None Include="localmirror\8681.movieinfo" />
+    <None Include="localmirror\924.movieinfo" />
+    <None Include="localmirror\9353.movieinfo" />
+    <None Include="localmirror\9532.movieinfo" />
+    <None Include="localmirror\9955.movieinfo" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="localmirror\10032_thumb.jpg" />
+    <Resource Include="localmirror\10045_thumb.jpg" />
+    <Resource Include="localmirror\10358_thumb.jpg" />
+    <Resource Include="localmirror\10483_thumb.jpg" />
+    <Resource Include="localmirror\10528_thumb.jpg" />
+    <Resource Include="localmirror\10661_thumb.jpg" />
+    <Resource Include="localmirror\111_thumb.jpg" />
+    <Resource Include="localmirror\11321_thumb.jpg" />
+    <Resource Include="localmirror\11323_thumb.jpg" />
+    <Resource Include="localmirror\11324_thumb.jpg" />
+    <Resource Include="localmirror\11635_thumb.jpg" />
+    <Resource Include="localmirror\12133_thumb.jpg" />
+    <Resource Include="localmirror\12155_thumb.jpg" />
+    <Resource Include="localmirror\12201_thumb.jpg" />
+    <Resource Include="localmirror\12244_thumb.jpg" />
+    <Resource Include="localmirror\12246_thumb.jpg" />
+    <Resource Include="localmirror\12569_thumb.jpg" />
+    <Resource Include="localmirror\1271_thumb.jpg" />
+    <Resource Include="localmirror\12877_thumb.jpg" />
+    <Resource Include="localmirror\13018_thumb.jpg" />
+    <Resource Include="localmirror\13056_thumb.jpg" />
+    <Resource Include="localmirror\13150_thumb.jpg" />
+    <Resource Include="localmirror\13180_thumb.jpg" />
+    <Resource Include="localmirror\13387_thumb.jpg" />
+    <Resource Include="localmirror\13448_thumb.jpg" />
+    <Resource Include="localmirror\13475_thumb.jpg" />
+    <Resource Include="localmirror\1359_thumb.jpg" />
+    <Resource Include="localmirror\13648_thumb.jpg" />
+    <Resource Include="localmirror\1381_thumb.jpg" />
+    <Resource Include="localmirror\14013_thumb.jpg" />
+    <Resource Include="localmirror\14161_thumb.jpg" />
+    <Resource Include="localmirror\14220_thumb.jpg" />
+    <Resource Include="localmirror\14560_thumb.jpg" />
+    <Resource Include="localmirror\14636_thumb.jpg" />
+    <Resource Include="localmirror\15357_thumb.jpg" />
+    <Resource Include="localmirror\15373_thumb.jpg" />
+    <Resource Include="localmirror\155_thumb.jpg" />
+    <Resource Include="localmirror\1562_thumb.jpg" />
+    <Resource Include="localmirror\1620_thumb.jpg" />
+    <Resource Include="localmirror\16218_thumb.jpg" />
+    <Resource Include="localmirror\16869_thumb.jpg" />
+    <Resource Include="localmirror\16991_thumb.jpg" />
+    <Resource Include="localmirror\16995_thumb.jpg" />
+    <Resource Include="localmirror\170_thumb.jpg" />
+    <Resource Include="localmirror\1726_thumb.jpg" />
+    <Resource Include="localmirror\17609_thumb.jpg" />
+    <Resource Include="localmirror\17654_thumb.jpg" />
+    <Resource Include="localmirror\18360_thumb.jpg" />
+    <Resource Include="localmirror\18480_thumb.jpg" />
+    <Resource Include="localmirror\18487_thumb.jpg" />
+    <Resource Include="localmirror\18501_thumb.jpg" />
+    <Resource Include="localmirror\1858_thumb.jpg" />
+    <Resource Include="localmirror\186_thumb.jpg" />
+    <Resource Include="localmirror\18785_thumb.jpg" />
+    <Resource Include="localmirror\19898_thumb.jpg" />
+    <Resource Include="localmirror\19901_thumb.jpg" />
+    <Resource Include="localmirror\19908_thumb.jpg" />
+    <Resource Include="localmirror\19959_thumb.jpg" />
+    <Resource Include="localmirror\19994_thumb.jpg" />
+    <Resource Include="localmirror\20178_thumb.jpg" />
+    <Resource Include="localmirror\2062_thumb.jpg" />
+    <Resource Include="localmirror\22821_thumb.jpg" />
+    <Resource Include="localmirror\22824_thumb.jpg" />
+    <Resource Include="localmirror\22825_thumb.jpg" />
+    <Resource Include="localmirror\22894_thumb.jpg" />
+    <Resource Include="localmirror\23483_thumb.jpg" />
+    <Resource Include="localmirror\23568_thumb.jpg" />
+    <Resource Include="localmirror\24056_thumb.jpg" />
+    <Resource Include="localmirror\24463_thumb.jpg" />
+    <Resource Include="localmirror\24757_thumb.jpg" />
+    <Resource Include="localmirror\25769_thumb.jpg" />
+    <Resource Include="localmirror\25927_thumb.jpg" />
+    <Resource Include="localmirror\26688_thumb.jpg" />
+    <Resource Include="localmirror\26715_thumb.jpg" />
+    <Resource Include="localmirror\27004_thumb.jpg" />
+    <Resource Include="localmirror\277_thumb.jpg" />
+    <Resource Include="localmirror\278_thumb.jpg" />
+    <Resource Include="localmirror\28019_thumb.jpg" />
+    <Resource Include="localmirror\2832_thumb.jpg" />
+    <Resource Include="localmirror\28665_thumb.jpg" />
+    <Resource Include="localmirror\29427_thumb.jpg" />
+    <Resource Include="localmirror\35153_thumb.jpg" />
+    <Resource Include="localmirror\35656_thumb.jpg" />
+    <Resource Include="localmirror\36586_thumb.jpg" />
+    <Resource Include="localmirror\36647_thumb.jpg" />
+    <Resource Include="localmirror\3989_thumb.jpg" />
+    <Resource Include="localmirror\437_thumb.jpg" />
+    <Resource Include="localmirror\4597_thumb.jpg" />
+    <Resource Include="localmirror\4959_thumb.jpg" />
+    <Resource Include="localmirror\598_thumb.jpg" />
+    <Resource Include="localmirror\6145_thumb.jpg" />
+    <Resource Include="localmirror\680_thumb.jpg" />
+    <Resource Include="localmirror\7299_thumb.jpg" />
+    <Resource Include="localmirror\7446_thumb.jpg" />
+    <Resource Include="localmirror\7737_thumb.jpg" />
+    <Resource Include="localmirror\7980_thumb.jpg" />
+    <Resource Include="localmirror\8193_thumb.jpg" />
+    <Resource Include="localmirror\8284_thumb.jpg" />
+    <Resource Include="localmirror\834_thumb.jpg" />
+    <Resource Include="localmirror\8373_thumb.jpg" />
+    <Resource Include="localmirror\8374_thumb.jpg" />
+    <Resource Include="localmirror\8681_thumb.jpg" />
+    <Resource Include="localmirror\924_thumb.jpg" />
+    <Resource Include="localmirror\9353_thumb.jpg" />
+    <Resource Include="localmirror\9532_thumb.jpg" />
+    <Resource Include="localmirror\9955_thumb.jpg" />
+    <Resource Include="poster_glass.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

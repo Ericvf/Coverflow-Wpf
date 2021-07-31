@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0238380</ImdbId>
+  <TmdbId>7299</TmdbId>
+  <Title>Equilibrium</Title>
+  <Runtime>107</Runtime>
+  <Rating>7.8</Rating>
+  <ReleaseDate>2003-02-26T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>In a Fascist future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1176</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>Equilibrium.avi</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="3894" Type="Actor" Name="Christian Bale" Character="John Preston" />
+    <CastMember TmdbId="10862" Type="Actor" Name="Dominic Purcell" Character="Seamus" />
+    <CastMember TmdbId="48" Type="Actor" Name="Sean Bean" Character="Errol Partridge" />
+    <CastMember TmdbId="43454" Type="Actor" Name="Christian Kahrmann" Character="Officer in Charge" />
+    <CastMember TmdbId="49486" Type="Actor" Name="John Keogh" Character="Chemist" />
+    <CastMember TmdbId="28848" Type="Actor" Name="Sean Pertwee" Character="Father" />
+    <CastMember TmdbId="886" Type="Actor" Name="William Fichtner" Character="Jürgen" />
+    <CastMember TmdbId="2464" Type="Actor" Name="Angus Macfadyen" Character="Dupont" />
+    <CastMember TmdbId="52399" Type="Actor" Name="David Barrash" Character="Evidentiary Storage Officer" />
+    <CastMember TmdbId="52400" Type="Actor" Name="Dirk Martens" Character="Gate Guard" />
+    <CastMember TmdbId="17637" Type="Actor" Name="Taye Diggs" Character="Brandt" />
+    <CastMember TmdbId="52401" Type="Actor" Name="Matthew Harbour" Character="Robbie Preston" />
+    <CastMember TmdbId="52402" Type="Actor" Name="Maria Pia Calzone" Character="Preston's Wife" />
+    <CastMember TmdbId="52403" Type="Actor" Name="Emily Siewert" Character="Lisa Preston" />
+    <CastMember TmdbId="1639" Type="Actor" Name="Emily Watson" Character="Mary O'Brien" />
+    <CastMember TmdbId="13927" Type="Director" Name="Kurt Wimmer" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

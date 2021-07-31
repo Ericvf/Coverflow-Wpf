@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1318044</ImdbId>
+  <TmdbId>23568</TmdbId>
+  <Title>American Virgin</Title>
+  <Runtime>82</Runtime>
+  <Rating>8.6</Rating>
+  <ReleaseDate>2009-10-03T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A Freshman College Girl on a scholarship from an abstinence group that advocates saving sex until marriage discovers that her antics on a night of debauchery, when she reluctantly got drunk for the first time in her life, were captured on camera by a sleazy video producer. Now she and her friends must travel across country to recover the incriminating footage.</Overview>
+  <TrailerUrl />
+  <HomepageUrl />
+  <MediaFile>American Virgin 2009 UNCUT 1080p BluRay DTS x264-GL.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="51600" Type="Director" Name="Clare Kilner" Character="" />
+    <CastMember TmdbId="60949" Type="Actor" Name="Rob Schneider" Character="Ed Curtzman" />
+    <CastMember TmdbId="20381" Type="Actor" Name="Jenna Dewan" Character="Priscilla" />
+    <CastMember TmdbId="115125" Type="Actor" Name="Chase Ryan Jeffery" Character="Chuck" />
+    <CastMember TmdbId="115126" Type="Actor" Name="Brianne Davis" Character="Naz" />
+    <CastMember TmdbId="115127" Type="Actor" Name="Elan Moss-Bachrach" Character="Kevin" />
+    <CastMember TmdbId="84700" Type="Actor" Name="Ashley Schneider" Character="Eileen" />
+    <CastMember TmdbId="115128" Type="Actor" Name="Bo Burnham" Character="Rudy" />
+    <CastMember TmdbId="115130" Type="Actor" Name="Ben Marten" Character="Brad" />
+    <CastMember TmdbId="87444" Type="Actor" Name="Sarah Habel" Character="Becca Curtzman" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

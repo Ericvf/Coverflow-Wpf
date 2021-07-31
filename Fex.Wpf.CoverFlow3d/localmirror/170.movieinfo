@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0289043</ImdbId>
+  <TmdbId>170</TmdbId>
+  <Title>28 Days Later</Title>
+  <Runtime>113</Runtime>
+  <Rating>7.6</Rating>
+  <ReleaseDate>2002-11-01T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=108</TrailerUrl>
+  <HomepageUrl>http://kino.20thcenturyfox.de/filmarchiv/28dayslater/set.html</HomepageUrl>
+  <MediaFile>xmf-28-days-later-720p-x264.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="2034" Type="Director" Name="Danny Boyle" Character="" />
+    <CastMember TmdbId="2037" Type="Actor" Name="Cillian Murphy" Character="Jim" />
+    <CastMember TmdbId="2038" Type="Actor" Name="Naomie Harris" Character="Selena" />
+    <CastMember TmdbId="2039" Type="Actor" Name="Brendan Gleeson" Character="Frank" />
+    <CastMember TmdbId="2040" Type="Actor" Name="Christopher Eccleston" Character="Major Henry West" />
+    <CastMember TmdbId="2050" Type="Actor" Name="Noah Huntley" Character="Mark" />
+    <CastMember TmdbId="2052" Type="Actor" Name="Christopher Dunne" Character="Jim's father" />
+    <CastMember TmdbId="2054" Type="Actor" Name="Emma Hitching" Character="Jim's mother" />
+    <CastMember TmdbId="2056" Type="Actor" Name="Alexander Delamere" Character="Mr. Bridges" />
+    <CastMember TmdbId="2057" Type="Actor" Name="Kim McGarrity" Character="Mr. Bridges’ Daughter" />
+    <CastMember TmdbId="2058" Type="Actor" Name="Megan Burns" Character="Hannah" />
+    <CastMember TmdbId="2060" Type="Actor" Name="Alex Palmer" Character="Aktivist" />
+    <CastMember TmdbId="2061" Type="Actor" Name="Bindu De Stoppani" Character="Aktivist" />
+    <CastMember TmdbId="2063" Type="Actor" Name="Jukka Hiltunen" Character="Aktivist" />
+    <CastMember TmdbId="2065" Type="Actor" Name="David Schneider" Character="Scientist" />
+    <CastMember TmdbId="2066" Type="Actor" Name="Toby Sedgwick" Character="Infected Priest" />
+    <CastMember TmdbId="2258" Type="Actor" Name="Stuart McQuarrie" Character="Seargent Farrell" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Horror" />
+    <Genre Name="Science Fiction" />
+  </Genres>
+</MovieInfo>

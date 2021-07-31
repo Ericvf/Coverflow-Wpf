@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0808151</ImdbId>
+  <TmdbId>13448</TmdbId>
+  <Title>Angels &amp; Demons</Title>
+  <Runtime>138</Runtime>
+  <Rating>6.8</Rating>
+  <ReleaseDate>2009-05-15T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>The Pope died and the conclave has been called for. Four candidates were chosen. However, before the voting, the four candidates are killed one by one. The killer leaves clues that seems to say that he/she is from the Illuminati. Strangely though, the Illuminati was long thought to be extinct. Who is the mastermind? Who revived the Illuminati? What do they want?</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=1991</TrailerUrl>
+  <HomepageUrl>http://www.angelsanddemons.com/</HomepageUrl>
+  <MediaFile>ANGELS_AND_DEMONS_EXTENDED_720P_X264_NLSUBBED_JUST4FUN_TEAM.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="6159" Type="Director" Name="Ron Howard" Character="" />
+    <CastMember TmdbId="31" Type="Actor" Name="Tom Hanks" Character="Robert Langdon" />
+    <CastMember TmdbId="8786" Type="Actor" Name="Ayelet Zurer" Character="Vittoria Vetra" />
+    <CastMember TmdbId="3061" Type="Actor" Name="Ewan McGregor" Character="Carlo Ventresca" />
+    <CastMember TmdbId="1640" Type="Actor" Name="Stellan Skarsgård" Character="Richter" />
+    <CastMember TmdbId="74487" Type="Actor" Name="David Pasquesi" Character="Vincenzi" />
+    <CastMember TmdbId="74488" Type="Actor" Name="Cosimo Fusco" Character="Father Simeon" />
+    <CastMember TmdbId="74489" Type="Actor" Name="Allen Dula" Character="Vatican Police" />
+    <CastMember TmdbId="28413" Type="Actor" Name="Carmen Argenziano" Character="Silvano Ventivoglio" />
+    <CastMember TmdbId="12647" Type="Actor" Name="Armin Mueller-Stahl" Character="Straus" />
+    <CastMember TmdbId="74490" Type="Actor" Name="Ursula Brooks" Character="BBC Reporter" />
+    <CastMember TmdbId="17839" Type="Actor" Name="Pierfrancesco Favino" Character="Commander Olivetti" />
+    <CastMember TmdbId="20258" Type="Actor" Name="Thure Lindhardt" Character="Chartrand" />
+    <CastMember TmdbId="2368" Type="Actor" Name="Elya Baskin" Character="Cardinal" />
+    <CastMember TmdbId="1018" Type="Actor" Name="Nikolaj Lie Kaas" Character="Mr. Gray" />
+    <CastMember TmdbId="6701" Type="Actor" Name="Norbert Weisser" Character="Scientist 1" />
+    <CastMember TmdbId="34520" Type="Actor" Name="Masasa Moyo" Character="South African Reporter" />
+    <CastMember TmdbId="74491" Type="Actor" Name="Arlo Hemphill" Character="Carabinieri" />
+    <CastMember TmdbId="74492" Type="Actor" Name="Gino Conforti" Character="Cardinal" />
+    <CastMember TmdbId="43461" Type="Actor" Name="Endre Hules" Character="CERN lead scientist" />
+    <CastMember TmdbId="29052" Type="Actor" Name="Kimberley Joseph" Character="Australian Reporter" />
+    <CastMember TmdbId="74493" Type="Actor" Name="Shelby Zemanek" Character="Young Girl In Square" />
+    <CastMember TmdbId="74494" Type="Actor" Name="Victor Alfieri" Character="Carabinieri Chief of Police" />
+    <CastMember TmdbId="74495" Type="Actor" Name="Yan Cui" Character="Chinese Reporter" />
+    <CastMember TmdbId="74496" Type="Actor" Name="Rashmi" Character="British Reporter" />
+    <CastMember TmdbId="74497" Type="Actor" Name="Michael Patrick Breen" Character="Ukrainian General" />
+    <CastMember TmdbId="74498" Type="Actor" Name="Skoti Collins" Character="British Camerman" />
+    <CastMember TmdbId="74499" Type="Actor" Name="Pascal Petardi" Character="Italian Reporter" />
+    <CastMember TmdbId="74500" Type="Actor" Name="James Tumminia" Character="Vatican Priest" />
+    <CastMember TmdbId="74501" Type="Actor" Name="Luis Fernandez-Gil" Character="Cardinal Strauss" />
+    <CastMember TmdbId="74502" Type="Actor" Name="Kristof Konrad" Character="Polish Reporter" />
+    <CastMember TmdbId="74503" Type="Actor" Name="Calvin Dean" Character="Choir Member #1" />
+    <CastMember TmdbId="74504" Type="Actor" Name="Nancy Guerriero" Character="Red Dot Nun" />
+    <CastMember TmdbId="74505" Type="Actor" Name="Craig Seitz" Character="Patriarch" />
+    <CastMember TmdbId="74506" Type="Actor" Name="Curt Lowens" Character="Cardinal Ebner" />
+    <CastMember TmdbId="74507" Type="Actor" Name="Michael Arturo" Character="Vatican Worker" />
+    <CastMember TmdbId="74508" Type="Actor" Name="Bryan Friday" Character="Fireman" />
+    <CastMember TmdbId="74509" Type="Actor" Name="Jonas Fisch" Character="Swiss Guardsman #2" />
+    <CastMember TmdbId="18645" Type="Actor" Name="Paul Richards" Character="Swissguard" />
+    <CastMember TmdbId="74510" Type="Actor" Name="Joel Shock" Character="Swiss Guardsman #1" />
+    <CastMember TmdbId="74511" Type="Actor" Name="Ed Francis Martin" Character="South American Reporter" />
+    <CastMember TmdbId="74512" Type="Actor" Name="Richard Schimmelpfenneg" Character="Suspicious Man" />
+    <CastMember TmdbId="74513" Type="Actor" Name="Stephen Sepher" Character="Carabinieri Lieutenant" />
+    <CastMember TmdbId="74514" Type="Actor" Name="Luca Costa" Character="Fireman #2" />
+    <CastMember TmdbId="74515" Type="Actor" Name="Laura Mary Clarke" Character="Dignitary" />
+    <CastMember TmdbId="74516" Type="Actor" Name="Jeffrey Boehm" Character="Swiss Guard Blue" />
+    <CastMember TmdbId="74517" Type="Actor" Name="Jon Lucero" Character="Vatican Police Officer" />
+    <CastMember TmdbId="74518" Type="Actor" Name="August Fredrik" Character="Swiss Guardsman #3" />
+    <CastMember TmdbId="74519" Type="Actor" Name="Ted Hollis" Character="Vatican Choir Singer" />
+    <CastMember TmdbId="74520" Type="Actor" Name="Jerred Berg" Character="Stem Cell Protestor #2" />
+    <CastMember TmdbId="74521" Type="Actor" Name="Dave Johnson" Character="Press Photographer" />
+    <CastMember TmdbId="74522" Type="Actor" Name="Les Feltmate" Character="Priest" />
+    <CastMember TmdbId="74523" Type="Actor" Name="Jason Ciok" Character="Matthew - Choir Boy" />
+    <CastMember TmdbId="74524" Type="Actor" Name="Cristy Joy Slavis" Character="Sister Christy" />
+    <CastMember TmdbId="74525" Type="Actor" Name="Shervin Davatgar" Character="Arab Reporter" />
+    <CastMember TmdbId="74526" Type="Actor" Name="Aaron Denius Garcia" Character="Carabinieri #2" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

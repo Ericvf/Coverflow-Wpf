@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt1034032</ImdbId>
+  <TmdbId>18501</TmdbId>
+  <Title>Gamer</Title>
+  <Runtime>95</Runtime>
+  <Rating>5.4</Rating>
+  <ReleaseDate>2009-09-03T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Mind-control technology has taken society by storm and a multiplayer on-line game called "Slayers" allows humans to control human prisoners in mass-scale. Simon (Lerman) controls Kable (Butler), the on-line champion of the game, and with his every move tracked by millions, his ultimate challenge becomes regaining his identity and independence by defeating the game's mastermind (Hall).</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=3022</TrailerUrl>
+  <HomepageUrl>http://gamerthemovie.com</HomepageUrl>
+  <MediaFile>inf-gamer.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="17276" Type="Actor" Name="Gerard Butler" Character="Kable" />
+    <CastMember TmdbId="33235" Type="Actor" Name="Logan Lerman" Character="Simon" />
+    <CastMember TmdbId="16501" Type="Actor" Name="Milo Ventimiglia" Character="Rick Rape" />
+    <CastMember TmdbId="54247" Type="Actor" Name="Aaron Yoo" Character="Humanez Dude" />
+    <CastMember TmdbId="8171" Type="Actor" Name="Ludacris" Character="Humanez Brother" />
+    <CastMember TmdbId="53256" Type="Actor" Name="Terry Crews" Character="Hackman" />
+    <CastMember TmdbId="8291" Type="Actor" Name="Alison Lohman" Character="Trace" />
+    <CastMember TmdbId="26467" Type="Actor" Name="Kyra Sedgwick" Character="Gina Parker Smith" />
+    <CastMember TmdbId="53820" Type="Actor" Name="Michael C. Hall" Character="Ken Castle" />
+    <CastMember TmdbId="5723" Type="Actor" Name="John Leguizamo" Character="Freek" />
+    <CastMember TmdbId="73589" Type="Actor" Name="Johnny Whitworth" Character="Scotch" />
+    <CastMember TmdbId="20494" Type="Actor" Name="Zoe Bell" Character="Sandra" />
+    <CastMember TmdbId="38425" Type="Actor" Name="Amber Valletta" Character="Angie" />
+    <CastMember TmdbId="20193" Type="Director" Name="Mark Neveldine" Character="" />
+    <CastMember TmdbId="20192" Type="Director" Name="Brian Taylor" Character="" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Science Fiction" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

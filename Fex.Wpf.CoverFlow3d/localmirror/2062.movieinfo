@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0382932</ImdbId>
+  <TmdbId>2062</TmdbId>
+  <Title>Ratatouille</Title>
+  <Runtime>110</Runtime>
+  <Rating>7.4</Rating>
+  <ReleaseDate>2007-06-28T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>Remy is a rat, with a talent and passion for cooking. He dreams of one day working in a real restaurant, when one day he gets his chance.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=125</TrailerUrl>
+  <HomepageUrl>http://disney.go.com/disneypictures/ratatouille/</HomepageUrl>
+  <MediaFile>Ratatouille.mpg</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="7087" Type="Director" Name="Brad Bird" Character="" />
+    <CastMember TmdbId="10872" Type="Actor" Name="Patton Oswalt" Character="Remy" />
+    <CastMember TmdbId="7962" Type="Actor" Name="Lou Romano" Character="Linguini" />
+    <CastMember TmdbId="21197" Type="Actor" Name="Janeane Garofalo" Character="Colette" />
+    <CastMember TmdbId="65" Type="Actor" Name="Ian Holm" Character="Skinner" />
+    <CastMember TmdbId="21198" Type="Actor" Name="Peter Sohn" Character="Emile" />
+    <CastMember TmdbId="6197" Type="Actor" Name="Brian Dennehy" Character="Django" />
+    <CastMember TmdbId="18" Type="Actor" Name="Brad Garrett" Character="Auguste Gusteau" />
+    <CastMember TmdbId="11390" Type="Actor" Name="Peter O'Toole" Character="Anton Ego" />
+    <CastMember TmdbId="7907" Type="Actor" Name="John Ratzenberger" Character="Mustafa" />
+    <CastMember TmdbId="21199" Type="Actor" Name="Jake Steinfeld" Character="Git" />
+    <CastMember TmdbId="21200" Type="Actor" Name="Will Arnett" Character="Horst" />
+    <CastMember TmdbId="32536" Type="Actor" Name="Julius Callahan" Character="Lalo/Francois" />
+    <CastMember TmdbId="1736" Type="Actor" Name="James Remar" Character="Larousse" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Animation" />
+    <Genre Name="Comedy" />
+  </Genres>
+</MovieInfo>

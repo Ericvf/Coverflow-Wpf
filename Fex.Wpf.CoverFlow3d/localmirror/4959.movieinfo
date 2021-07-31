@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0963178</ImdbId>
+  <TmdbId>4959</TmdbId>
+  <Title>The International</Title>
+  <Runtime>118</Runtime>
+  <Rating>7.0</Rating>
+  <ReleaseDate>2009-02-05T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>An interpol agent and an attorney are determined to bring one of the world's most powerful banks to justice . Uncovering illegal activities including money laundering, arms trading, and the destabilization of governments, their investigation takes them from Berlin, Milan, New York and Istanbul. Finding themselves in a chase across the globe, their relentless tenacity puts their own lives at risk.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=975</TrailerUrl>
+  <HomepageUrl>http://www.sonypictures.com/movies/theinternational/site/</HomepageUrl>
+  <MediaFile>the.international.dts.nlsubs.maupzilla.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="1071" Type="Director" Name="Tom Tykwer" Character="" />
+    <CastMember TmdbId="2296" Type="Actor" Name="Clive Owen" Character="Louis Salinger" />
+    <CastMember TmdbId="3489" Type="Actor" Name="Naomi Watts" Character="Eleanor Whitman" />
+    <CastMember TmdbId="12647" Type="Actor" Name="Armin Mueller-Stahl" Character="Wilhelm Wexler" />
+    <CastMember TmdbId="4455" Type="Actor" Name="Ulrich Thomsen" Character="Jonas Skarssen" />
+    <CastMember TmdbId="31713" Type="Actor" Name="Brian F. O'Byrne" Character="The Consultant" />
+    <CastMember TmdbId="84140" Type="Actor" Name="Michel Voletti" Character="Viktor Haas" />
+    <CastMember TmdbId="43019" Type="Actor" Name="Patrick Baladi" Character="Martin White" />
+    <CastMember TmdbId="47589" Type="Actor" Name="Jay Villiers" Character="Francis Ehames" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Action" />
+    <Genre Name="Crime" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

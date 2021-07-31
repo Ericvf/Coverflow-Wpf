@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0144084</ImdbId>
+  <TmdbId>1359</TmdbId>
+  <Title>American Psycho</Title>
+  <Runtime>101</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2000-04-07T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=119</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>American.psycho.720P.NLSUBS.WMVHD.WMV</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="16378" Type="Director" Name="Mary Harron" Character="" />
+    <CastMember TmdbId="3894" Type="Actor" Name="Christian Bale" Character="Patrick Bateman" />
+    <CastMember TmdbId="368" Type="Actor" Name="Reese Witherspoon" Character="Evelyn Williams" />
+    <CastMember TmdbId="15009" Type="Actor" Name="Justin Theroux" Character="Timothy Bryce" />
+    <CastMember TmdbId="6164" Type="Actor" Name="Josh Lucas" Character="Craig McDermott" />
+    <CastMember TmdbId="32029" Type="Actor" Name="Bill Sage" Character="David Van Patten" />
+    <CastMember TmdbId="2838" Type="Actor" Name="Chloë Sevigny" Character="Jean" />
+    <CastMember TmdbId="20767" Type="Actor" Name="Samantha Mathis" Character="Courtney Rawlinson" />
+    <CastMember TmdbId="11154" Type="Actor" Name="Matt Ross" Character="Luis Carruthers" />
+    <CastMember TmdbId="7499" Type="Actor" Name="Jared Leto" Character="Paul Allen" />
+    <CastMember TmdbId="5293" Type="Actor" Name="Willem Dafoe" Character="Det. Donald Kimball" />
+    <CastMember TmdbId="2617" Type="Actor" Name="Cara Seymour" Character="Christie" />
+    <CastMember TmdbId="32030" Type="Actor" Name="Guinevere Turner" Character="Elizabeth" />
+    <CastMember TmdbId="32031" Type="Actor" Name="Stephen Bogaert" Character="Harold Carnes" />
+    <CastMember TmdbId="32032" Type="Actor" Name="Monika Meier" Character="Daisy" />
+    <CastMember TmdbId="32033" Type="Actor" Name="Krista Sutton" Character="Sabrina" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>

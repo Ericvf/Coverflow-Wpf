@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImdbId>tt0913354</ImdbId>
+  <TmdbId>4597</TmdbId>
+  <Title>Armored</Title>
+  <Runtime>88</Runtime>
+  <Rating>8.0</Rating>
+  <ReleaseDate>2009-12-04T00:00:00</ReleaseDate>
+  <Language>en</Language>
+  <Overview>A crew of officers at an armored transport security firm risk their lives when they embark on the ultimate heist against their own company. Armed with a seemingly fool-proof plan, the men plan on making off with a fortune with harm to none. But when an unexpected witness interferes, the plan quickly unravels and all bets are off.</Overview>
+  <TrailerUrl>http://www.youtube.com/watch?v=2044</TrailerUrl>
+  <HomepageUrl />
+  <MediaFile>m-armored-1080.mkv</MediaFile>
+  <CastMembers>
+    <CastMember TmdbId="41671" Type="Director" Name="Nimród Antal" Character="" />
+    <CastMember TmdbId="31132" Type="Actor" Name="Columbus Short" Character="Ty Hackett" />
+    <CastMember TmdbId="2975" Type="Actor" Name="Laurence Fishburne" Character="Baines" />
+    <CastMember TmdbId="22108" Type="Actor" Name="Skeet Ulrich" Character="Dobbs" />
+    <CastMember TmdbId="17341" Type="Actor" Name="Amaury Nolasco" Character="Palmer" />
+    <CastMember TmdbId="2876" Type="Actor" Name="Matt Dillon" Character="Mike Cochrane" />
+    <CastMember TmdbId="1003" Type="Actor" Name="Jean Reno" Character="Quinn" />
+    <CastMember TmdbId="10430" Type="Actor" Name="Fred Ward" Character="Duncan Ashcroft" />
+  </CastMembers>
+  <Genres>
+    <Genre Name="Crime" />
+    <Genre Name="Drama" />
+    <Genre Name="Thriller" />
+  </Genres>
+</MovieInfo>
